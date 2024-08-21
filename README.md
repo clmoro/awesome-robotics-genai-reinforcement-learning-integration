@@ -17,3 +17,11 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
  ### 4.1 Learning robotic tasks with video prediction
  ### 4.2 Foundation world models for model-based RL
 ## 5. Transformer Reinforcement Learning Models
+
+## Citation
+
+If you find our project useful, please cite our paper:
+
+```
+
+```
