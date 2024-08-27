@@ -5,123 +5,122 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
 ## 1. Large Language Models Enhance Reasoning Capabilities in RL Agents
  ### 1.1 Inverse RL: generating the reward function through LLMs
   - Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models [[paper]](https://arxiv.org/abs/2311.02379)
-  - Augmenting Autotelic Agents with Large Language Models
-  - Eureka: Human-Level Reward Design via Coding Large Language Models
-  - FoMo Rewards: Can we cast foundation models as reward functions?
-  - Guiding Pretraining in Reinforcement Learning with Large Language Models
-  - Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks
-  - Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration
-  - Language to Rewards for Robotic Skill Synthesis
-  - Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation
-  - Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics
-  - Text2Reward: Reward Shaping with Language Models for Reinforcement Learning
+  - Augmenting Autotelic Agents with Large Language Models [[paper](https://arxiv.org/abs/2305.12487)
+  - Eureka: Human-Level Reward Design via Coding Large Language Models [[paper](https://arxiv.org/abs/2310.12931)
+  - FoMo Rewards: Can we cast foundation models as reward functions? [[paper](https://arxiv.org/abs/2312.03881)
+  - Guiding Pretraining in Reinforcement Learning with Large Language Models [[paper](https://arxiv.org/abs/2302.06692)
+  - Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks [[paper](https://arxiv.org/abs/2309.16347)
+  - Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration [[paper](https://arxiv.org/abs/2002.09253)
+  - Language to Rewards for Robotic Skill Synthesis [[paper](https://arxiv.org/abs/2306.08647)
+  - Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation [[paper](https://arxiv.org/abs/2109.01115)
+  - Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics [[paper](https://arxiv.org/abs/2309.06687)
+  - Text2Reward: Reward Shaping with Language Models for Reinforcement Learning [[paper](https://arxiv.org/abs/2309.11489)
  ### 1.2 Large language models to directly generate or refine RL policies
-  - Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance
-  - Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning
-  - Language Instructed Reinforcement Learning for Human-AI Coordination
+  - Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance [[paper](https://arxiv.org/abs/2310.10021)
+  - Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning [[paper](https://arxiv.org/abs/2302.02662)
+  - Language Instructed Reinforcement Learning for Human-AI Coordination [[paper](https://arxiv.org/abs/2304.07297)
  ### 1.3 Grounding LLM plans in real world through RL generated primitives
-  - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
-  - Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents
-  - Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks
-  - Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning
+  - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[paper](https://arxiv.org/abs/2204.01691)
+  - Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents [[paper](https://arxiv.org/abs/2303.00855)
+  - Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks [[paper](https://arxiv.org/abs/2405.01534)
+  - Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning [[paper](https://arxiv.org/abs/2309.11359)
 ## 2. Vision Language Models for RL-Based Decision Making
-  - Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?
-  - Code as Reward: Empowering Reinforcement Learning with VLMs
-  - Foundation Models in Robotics: Applications, Challenges, and the Future
-  - Language Reward Modulation for Pretraining Reinforcement Learning
-  - LIV: Language-Image Representations and Rewards for Robotic Control
-  - RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback
-  - RoboCLIP: One Demonstration is Enough to Learn Robot Policies
-  - Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning
-  - Towards A Unified Agent with Foundation Models
-  - Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning
-  - Vision-Language Models as a Source of Rewards
-  - Vision-Language Models Provide Promptable Representations for Reinforcement Learning
-  - Zero-Shot Reward Specification via Grounded Natural Language
-  - ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models
-  - Affordance-Guided Reinforcement Learning via Visual Prompting
+  - Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation? [[paper](https://arxiv.org/abs/2204.11134)
+  - Code as Reward: Empowering Reinforcement Learning with VLMs [[paper](https://arxiv.org/abs/2402.04764)
+  - Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/abs/2312.07843)
+  - Language Reward Modulation for Pretraining Reinforcement Learning [[paper](https://arxiv.org/abs/2308.12270)
+  - LIV: Language-Image Representations and Rewards for Robotic Control [[paper](https://arxiv.org/abs/2306.00958)
+  - RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback [[paper](https://arxiv.org/abs/2402.03681)
+  - RoboCLIP: One Demonstration is Enough to Learn Robot Policies [[paper](https://arxiv.org/pdf/2310.07899)
+  - Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning [[paper](https://arxiv.org/abs/2310.15145)
+  - Towards A Unified Agent with Foundation Models [[paper](https://arxiv.org/abs/2307.09668)
+  - Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning [[paper](https://arxiv.org/abs/2310.12921)
+  - Vision-Language Models as a Source of Rewards [[paper](https://arxiv.org/abs/2312.09187)
+  - Vision-Language Models Provide Promptable Representations for Reinforcement Learning [[paper](https://arxiv.org/abs/2402.02651)
+  - Zero-Shot Reward Specification via Grounded Natural Language [[paper](https://openreview.net/forum?id=zRb7IWkTZAU)
+  - ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models [[paper](https://arxiv.org/abs/2403.09583)
+  - Affordance-Guided Reinforcement Learning via Visual Prompting [[paper](https://arxiv.org/abs/2407.10341v1)
 ## 3. RL Robot Control Empowered by Diffusion Models
  ### 3.1 Diffusion models for policy generation and representation
-  - Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning
-  - Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning
-  - Beyond Conservatism: Diffusion Policies in Offline Multi-agent Reinforcement Learning
-  - Diffusion Policy: Visuomotor Policy Learning via Action Diffusion
-  - Generating Behaviorally Diverse Policies with Latent Diffusion Models
-  - Hierarchical Diffusion for Offline Decision Making
-  - Is Conditional Generative Modeling All You Need for Decision-Making?
-  - Policy Representation via Diffusion Probability Model for Reinforcement Learning
-  - Offline Skill Diffusion for Robust Cross-Domain Policy Learning
-  - Score Regularized Policy Optimization through Diffusion Behavior for Efficient Offline Reinforcement Learning
-  - Policy-Guided Diffusion
+  - Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning [[paper](https://arxiv.org/abs/2309.16984)
+  - Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2208.06193)
+  - Beyond Conservatism: Diffusion Policies in Offline Multi-agent Reinforcement Learning [[paper](https://arxiv.org/abs/2307.01472)
+  - Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[paper](https://arxiv.org/abs/2303.04137)
+  - Generating Behaviorally Diverse Policies with Latent Diffusion Models [[paper](https://arxiv.org/abs/2305.18738)
+  - Hierarchical Diffusion for Offline Decision Making [[paper](https://proceedings.mlr.press/v202/li23ad.html)
+  - Is Conditional Generative Modeling All You Need for Decision-Making? [[paper](https://arxiv.org/abs/2211.15657)
+  - Policy Representation via Diffusion Probability Model for Reinforcement Learning [[paper](https://arxiv.org/abs/2305.13122)
+  - Offline Skill Diffusion for Robust Cross-Domain Policy Learning [[paper](https://arxiv.org/abs/2403.00225)
+  - Score Regularized Policy Optimization through Diffusion Behavior for Efficient Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2310.07297)
+  - Policy-Guided Diffusion [[paper](https://arxiv.org/abs/2404.06356)
  ### 3.2 Diffusion models for planning
-  - AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners
-  - Adaptive Online Replanning with Diffusion Models
-  - Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States
-  - Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning
-  - DiPPeR: Diffusion-based 2D Path Planner applied on Legged Robots
-  - EDGI: Equivariant Diffusion for Planning with Embodied Agents
-  - Hierarchical Diffuser: Efficient Hierarchical Planning with Diffusion Models for Improved Long-Horizon Decision-Making
-  - Language Control Diffusion: Efficiently Scaling Through Space, Time, and Tasks
-  - Planning with Diffusion for Flexible Behavior Synthesis
-  - Refining Diffusion Planner for Reliable Behavior Synthesis by Automatic Detection of Infeasible Plans
-  - SafeDiffuser: Safe Planning with Diffusion Probabilistic Models via Control Barrier Functions
-  - SSD: Sub-trajectory Stitching with Diffusion Model for Goal-Conditioned Offline Reinforcement Learning
-  - Simple Hierarchical Planning with Diffusion
+  - AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners [[paper](https://arxiv.org/abs/2302.01877)
+  - Adaptive Online Replanning with Diffusion Models [[paper](https://arxiv.org/abs/2310.09629)
+  - Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States [[paper](https://arxiv.org/abs/2310.13914)
+  - Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning [[paper](https://arxiv.org/abs/2305.18459)
+  - DiPPeR: Diffusion-based 2D Path Planner applied on Legged Robots [[paper](https://arxiv.org/abs/2310.07842)
+  - EDGI: Equivariant Diffusion for Planning with Embodied Agents [[paper](https://arxiv.org/abs/2303.12410)
+  - Hierarchical Diffuser: Simple Hierarchical Planning with Diffusion [[paper](https://arxiv.org/abs/2401.02644)
+  - Language Control Diffusion: Efficiently Scaling Through Space, Time, and Tasks [[paper](https://arxiv.org/abs/2210.15629)
+  - Planning with Diffusion for Flexible Behavior Synthesis [[paper](https://arxiv.org/abs/2205.09991)
+  - Refining Diffusion Planner for Reliable Behavior Synthesis by Automatic Detection of Infeasible Plans [[paper](https://arxiv.org/abs/2310.19427)
+  - SafeDiffuser: Safe Planning with Diffusion Probabilistic Models via Control Barrier Functions [[paper](https://arxiv.org/abs/2306.00148)
+  - SSD: Sub-trajectory Stitching with Diffusion Model for Goal-Conditioned Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2402.07226)
  ### 3.3 Diffusion models for offline RL
-  - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning
-  - Efficient Diffusion Policies for Offline Reinforcement Learning
-  - Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching
-  - IDQL: Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies
-  - Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning
-  - Learning a Diffusion Model Policy from Rewards via Q-Score Matching
-  - Learning to Reach Goals via Diffusion
-  - MADIFF: Offline Multi-agent Learning with Diffusion Models
-  - MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL
-  - Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling
-  - Reasoning with Latent Diffusion in Offline Reinforcement Learning
+  - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2304.12824)
+  - Efficient Diffusion Policies for Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2305.20081)
+  - Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching [[paper](https://arxiv.org/abs/2306.14079)
+  - IDQL: Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies [[paper](https://arxiv.org/abs/2304.10573)
+  - Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2306.04875)
+  - Learning a Diffusion Model Policy from Rewards via Q-Score Matching [[paper](https://arxiv.org/abs/2312.11752)
+  - Learning to Reach Goals via Diffusion [[paper](https://arxiv.org/abs/2310.02505)
+  - MADIFF: Offline Multi-agent Learning with Diffusion Models [[paper](https://arxiv.org/abs/2305.17330)
+  - MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL [[paper](https://arxiv.org/abs/2305.19923)
+  - Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling [[paper](https://arxiv.org/abs/2209.14548)
+  - Reasoning with Latent Diffusion in Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2309.06599)
  ### 3.4 Diffusion models for inverse RL
-  - Extracting Reward Functions from Diffusion Models
-  - Reward-Directed Conditional Diffusion Models for Directed Generation and Representation Learning
-  - Diffused Value Function: Value Function Estimation using Conditional Diffusion Models for Control
-  - Diffusion Reward: Learning Rewards via Conditional Video Diffusion
+  - Extracting Reward Functions from Diffusion Models [[paper](https://arxiv.org/abs/2306.01804)
+  - Reward-Directed Conditional Diffusion Models for Directed Generation and Representation Learning [[paper](https://arxiv.org/abs/2307.07055)
+  - Diffused Value Function: Value Function Estimation using Conditional Diffusion Models for Control [[paper](https://arxiv.org/abs/2306.07290)
+  - Diffusion Reward: Learning Rewards via Conditional Video Diffusion [[paper](https://arxiv.org/abs/2312.14134)
 ## 4. Reinforcement Learning Leverages Video Prediction and World Models
  ### 4.1 Learning robotic tasks with video prediction
-  - Foundation Reinforcement Learning (FRL)
-  - Learning Generalizable Robotic Reward Functions from 'In-The-Wild' Human Videos
-  - Video prediction models as rewards for reinforcement learning
-  - Learning reward functions for robotic manipulation by observing humans
-  - Vip: Towards universal visual reward and representation via value-implicit pre-training
-  - Learning Universal Policies via Text-Guided Video Generation
-  - Robotic offline rl from internet videos via value-function pre-training
-  - Where are we in the search for an artificial visual cortex for embodied intelligence?
+  - Foundation Reinforcement Learning (FRL) [[paper](https://arxiv.org/abs/2310.02635)
+  - Learning Generalizable Robotic Reward Functions from 'In-The-Wild' Human Videos [[paper](https://arxiv.org/abs/2103.16817)
+  - Video prediction models as rewards for reinforcement learning [[paper](https://arxiv.org/abs/2305.14343)
+  - Learning reward functions for robotic manipulation by observing humans [[paper](https://arxiv.org/abs/2211.09019)
+  - Vip: Towards universal visual reward and representation via value-implicit pre-training [[paper](https://arxiv.org/abs/2210.00030)
+  - Learning Universal Policies via Text-Guided Video Generation [[paper](https://arxiv.org/abs/2302.00111)
+  - Robotic offline rl from internet videos via value-function pre-training [[paper](https://arxiv.org/abs/2309.13041)
+  - Where are we in the search for an artificial visual cortex for embodied intelligence? [[paper](https://arxiv.org/abs/2303.18240)
  ### 4.2 Foundation world models for model-based RL
-  - Masked World Models for Visual Control
-  - Multi-View Masked World Models for Visual Robotic Manipulation
-  - Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling
-  - EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents
-  - UniSim: Learning Interactive Real-World Simulators
-  - RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
-  - Recurrent World Models Facilitate Policy Evolution
-  - GenSim: Generating Robotic Simulation Tasks via Large Language Models
-  - GenRL: Multimodal Foundation World Models for Generalist Embodied Agents
-  - iVideoGPT: Interactive VideoGPTs are Scalable World Models
-  - Zero-shot Safety Prediction for Autonomous Robots with Foundation World Models
-  - Genie: Generative Interactive Environments
+  - Masked World Models for Visual Control [[paper](https://arxiv.org/abs/2206.14244)
+  - Multi-View Masked World Models for Visual Robotic Manipulation [[paper](https://arxiv.org/abs/2302.02408)
+  - Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling [[paper](https://arxiv.org/abs/2301.12050)
+  - EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents [[paper](https://arxiv.org/abs/2403.12014)
+  - UniSim: Learning Interactive Real-World Simulators [[paper](https://arxiv.org/abs/2310.06114)
+  - RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation [[paper](https://arxiv.org/abs/2311.01455)
+  - Recurrent World Models Facilitate Policy Evolution [[paper](https://papers.nips.cc/paper_files/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)
+  - GenSim: Generating Robotic Simulation Tasks via Large Language Models [[paper](https://arxiv.org/abs/2310.01361)
+  - GenRL: Multimodal Foundation World Models for Generalist Embodied Agents [[paper](https://arxiv.org/abs/2406.18043)
+  - iVideoGPT: Interactive VideoGPTs are Scalable World Models [[paper](https://arxiv.org/abs/2405.15223)
+  - Zero-shot Safety Prediction for Autonomous Robots with Foundation World Models [[paper](https://arxiv.org/abs/2404.00462)
+  - Genie: Generative Interactive Environments [[paper](https://arxiv.org/abs/2402.15391)
 ## 5. Transformer Reinforcement Learning Models
-  - Multi-agent reinforcement learning is a sequence modeling problem
-  - Hyper-decision transformer for efficient online policy adaptation
-  - Prompt-tuning decision transformer with preference ranking
-  - Pre-training for robots: Offline rl enables learning new tasks from a handful of trials
-  - Think before you act: Unified policy for interleaving language reasoning with actions
-  - Online Foundation Model Selection in Robotics
-  - Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem
-  - A generalist agent
-  - HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning
-  - Transformers are adaptable task planners
-  - Pact: Perception-action causal transformer for autoregressive robotics pre-training
-  - Latte: Language trajectory transformer
-  - Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions
-  - Anymorph: Learning transferable polices by inferring agent morphology
+  - Multi-agent reinforcement learning is a sequence modeling problem [[paper](https://arxiv.org/abs/2205.14953)
+  - Hyper-decision transformer for efficient online policy adaptation [[paper](https://arxiv.org/abs/2304.08487)
+  - Prompt-tuning decision transformer with preference ranking [[paper](https://arxiv.org/abs/2305.09648)
+  - Pre-training for robots: Offline rl enables learning new tasks from a handful of trials [[paper](https://arxiv.org/abs/2210.05178)
+  - Think before you act: Unified policy for interleaving language reasoning with actions [[paper](https://arxiv.org/abs/2304.11063)
+  - Online Foundation Model Selection in Robotics [[paper](https://arxiv.org/abs/2402.08570)
+  - Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem [[paper](https://arxiv.org/abs/2402.02868)
+  - A generalist agent [[paper](https://arxiv.org/abs/2205.06175)
+  - HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2405.18080)
+  - Transformers are adaptable task planners [[paper](https://arxiv.org/abs/2207.02442)
+  - Pact: Perception-action causal transformer for autoregressive robotics pre-training [[paper](https://arxiv.org/abs/2209.11133)
+  - Latte: Language trajectory transformer [[paper](https://arxiv.org/abs/2208.02918)
+  - Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions [[paper](https://arxiv.org/abs/2309.10150)
+  - Anymorph: Learning transferable polices by inferring agent morphology [[paper](https://arxiv.org/abs/2206.12279)
 ## Citation
 
 If you find our project useful, please cite our paper:
