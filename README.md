@@ -83,16 +83,22 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
  ### 4.1 Learning robotic tasks with video prediction
   - Foundation Reinforcement Learning (FRL)
   - Learning Generalizable Robotic Reward Functions from 'In-The-Wild' Human Videos
+  - Video prediction models as rewards for reinforcement learning
+  - Learning reward functions for robotic manipulation by observing humans
+  - Vip: Towards universal visual reward and representation via value-implicit pre-training
+  - Learning Universal Policies via Text-Guided Video Generation
+  - Robotic offline rl from internet videos via value-function pre-training
+  - Where are we in the search for an artificial visual cortex for embodied intelligence?
  ### 4.2 Foundation world models for model-based RL
   - Masked World Models for Visual Control
   - Multi-View Masked World Models for Visual Robotic Manipulation
   - Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling
   - EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents
-  - Learning Interactive Real-World Simulators
+  - UniSim: Learning Interactive Real-World Simulators
   - RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
   - Recurrent World Models Facilitate Policy Evolution
-  - GENSIM: Generating Robotic Simulation Tasks via Large Language Models
-  - Multimodal Foundation World Models for Generalist Embodied Agents (GenRL)
+  - GenSim: Generating Robotic Simulation Tasks via Large Language Models
+  - GenRL: Multimodal Foundation World Models for Generalist Embodied Agents
   - iVideoGPT: Interactive VideoGPTs are Scalable World Models
   - Zero-shot Safety Prediction for Autonomous Robots with Foundation World Models
   - Genie: Generative Interactive Environments
