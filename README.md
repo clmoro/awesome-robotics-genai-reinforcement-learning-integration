@@ -23,6 +23,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
   - Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents
   - Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks
+  - Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning
 ## 2. Vision Language Models for RL-Based Decision Making
   - Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?
   - Code as Reward: Empowering Reinforcement Learning with VLMs
@@ -38,6 +39,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Vision-Language Models Provide Promptable Representations for Reinforcement Learning
   - Zero-Shot Reward Specification via Grounded Natural Language
   - ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models
+  - Affordance-Guided Reinforcement Learning via Visual Prompting
 ## 3. RL Robot Control Empowered by Diffusion Models
  ### 3.1 Diffusion models for policy generation and representation
   - Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning
@@ -50,6 +52,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Policy Representation via Diffusion Probability Model for Reinforcement Learning
   - Offline Skill Diffusion for Robust Cross-Domain Policy Learning
   - Score Regularized Policy Optimization through Diffusion Behavior for Efficient Offline Reinforcement Learning
+  - Policy-Guided Diffusion
  ### 3.2 Diffusion models for planning
   - AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners
   - Adaptive Online Replanning with Diffusion Models
@@ -63,6 +66,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Refining Diffusion Planner for Reliable Behavior Synthesis by Automatic Detection of Infeasible Plans
   - SafeDiffuser: Safe Planning with Diffusion Probabilistic Models via Control Barrier Functions
   - SSD: Sub-trajectory Stitching with Diffusion Model for Goal-Conditioned Offline Reinforcement Learning
+  - Simple Hierarchical Planning with Diffusion
  ### 3.3 Diffusion models for offline RL
   - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning
   - Efficient Diffusion Policies for Offline Reinforcement Learning
@@ -79,6 +83,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Extracting Reward Functions from Diffusion Models
   - Reward-Directed Conditional Diffusion Models for Directed Generation and Representation Learning
   - Diffused Value Function: Value Function Estimation using Conditional Diffusion Models for Control
+  - Diffusion Reward: Learning Rewards via Conditional Video Diffusion
 ## 4. Reinforcement Learning Leverages Video Prediction and World Models
  ### 4.1 Learning robotic tasks with video prediction
   - Foundation Reinforcement Learning (FRL)
