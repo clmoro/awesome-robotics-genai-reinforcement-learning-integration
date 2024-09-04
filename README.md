@@ -3,8 +3,10 @@ This repository contains a curated list of the papers classified in the survey t
 ## Abstract
 Large pre-trained models, such as foundation models (FMs), despite their powerful abilities to understand complex patterns and generate sophisticated outputs, often struggle with adapting to specific tasks. Reinforcement learning (RL), which allows agents to learn through interaction and feedback, presents a compelling solution. Integrating RL empowers foundation models to achieve desired outcomes and excel at specific tasks. Simultaneously, RL itself can be enhanced when coupled with the reasoning and generalization capabilities of FMs. The synergy between foundation models and RL is revolutionizing many fields, robotics is among them. Foundation models, rich in knowledge and generalization capabilities, provide robots with a wealth of information, while RL enables them to learn and adapt through real-world interaction. This survey paper offers a comprehensive exploration of this exciting intersection, examining how these paradigms can be integrated to push the boundaries of robotic intelligence. We analyze the use of foundation models as action planners, the development of robotics-specific foundation models, and the mutual benefits of combining foundation models with RL. We also present a taxonomy of integration approaches, including large language models, vision-language models, diffusion models, and transformer-based RL models. Finally, we delve into how RL can harness the world representations learned from foundation models to enhance robotic task execution. Through synthesizing current research and highlighting key challenges, this survey aims to spark future research and contribute to the development of more intelligent, adaptable, and capable robotic systems. To summarize the analysis conducted in this work, we also provide a continuously updated collection of papers based on our taxonomy.
 
-<img src="./Images/Intro.png" alt="Paper Taxonomy." width="500"/>
-
+<div align="center">
+ <img src="./Images/Intro.png" alt="Paper Taxonomy." width="500"/>
+</div>
+ 
 ## 1. Large Language Models Enhance Reasoning Capabilities in RL Agents
  ### 1.1 Inverse RL: generating the reward function through LLMs
   - Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models [[paper]](https://arxiv.org/abs/2311.02379)
