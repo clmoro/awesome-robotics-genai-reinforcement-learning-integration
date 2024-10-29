@@ -131,5 +131,10 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
 If you find our project useful, please cite our paper:
 
 ```
-
+@article{moroncelli2024integrating,
+  title={Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives},
+  author={Moroncelli, Angelo and Soni, Vishal and Shahid, Asad Ali and Maccarini, Marco and Forgione, Marco and Piga, Dario and Spahiu, Blerina and Roveda, Loris},
+  journal={arXiv preprint arXiv:2410.16411},
+  year={2024}
+}
 ```
