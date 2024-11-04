@@ -24,11 +24,13 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance [[paper]](https://arxiv.org/abs/2310.10021)
   - Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning [[paper]](https://arxiv.org/abs/2302.02662)
   - Language Instructed Reinforcement Learning for Human-AI Coordination [[paper]](https://arxiv.org/abs/2304.07297)
+  - Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs [[paper]](https://arxiv.org/abs/2408.06520)
  ### 1.3 Grounding LLM plans in real world through RL generated primitives
   - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[paper]](https://arxiv.org/abs/2204.01691)
   - Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents [[paper]](https://arxiv.org/abs/2303.00855)
   - Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks [[paper]](https://arxiv.org/abs/2405.01534)
   - Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning [[paper]](https://arxiv.org/abs/2309.11359)
+  - LLM Augmented Hierarchical Agents [[paper]](https://arxiv.org/abs/2311.05596)
 ## 2. Vision Language Models for RL-Based Decision Making
   - Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation? [[paper]](https://arxiv.org/abs/2204.11134)
   - Code as Reward: Empowering Reinforcement Learning with VLMs [[paper]](https://arxiv.org/abs/2402.04764)
@@ -88,6 +90,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Offline Skill Diffusion for Robust Cross-Domain Policy Learning [[paper]](https://arxiv.org/abs/2403.00225)
   - Score Regularized Policy Optimization through Diffusion Behavior for Efficient Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2310.07297)
   - Policy-Guided Diffusion [[paper]](https://arxiv.org/abs/2404.06356)
+  - Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control [[paper]](https://arxiv.org/pdf/2405.05852)
 ## 4. Reinforcement Learning Leverages Video Prediction and World Models
  ### 4.1 Learning robotic tasks with video prediction
   - Foundation Reinforcement Learning (FRL) [[paper]](https://arxiv.org/abs/2310.02635)
