@@ -91,6 +91,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Score Regularized Policy Optimization through Diffusion Behavior for Efficient Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2310.07297)
   - Policy-Guided Diffusion [[paper]](https://arxiv.org/abs/2404.06356)
   - Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control [[paper]](https://arxiv.org/pdf/2405.05852)
+  - Diffusion Policy Policy Optimization [[paper]](https://arxiv.org/abs/2409.00588)
 ## 4. Reinforcement Learning Leverages Video Prediction and World Models
  ### 4.1 Learning robotic tasks with video prediction
   - Foundation Reinforcement Learning (FRL) [[paper]](https://arxiv.org/abs/2310.02635)
