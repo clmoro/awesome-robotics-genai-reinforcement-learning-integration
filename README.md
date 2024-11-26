@@ -15,7 +15,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
 ## Content of the paper
 
 <div align="center">
- <img src="./Images/FlowChart.jpg" alt="Paper Taxonomy." width="1000"/>
+ <img src="./Images/FlowChart.jpg" alt="Paper Taxonomy." width="700"/>
 </div>
 
 ## 1. Large Language Models Enhance Reasoning Capabilities in RL Agents
