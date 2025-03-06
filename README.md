@@ -47,6 +47,9 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks [[paper]](https://arxiv.org/abs/2405.01534)
   - Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning [[paper]](https://arxiv.org/abs/2309.11359)
   - LLM Augmented Hierarchical Agents [[paper]](https://arxiv.org/abs/2311.05596)
+  - Code as Reward: Empowering Reinforcement Learning with VLMs [[paper]](https://openreview.net/pdf?id=6P88DMUDvH)
+  - Real-World Offline Reinforcement Learning from Vision Language Model Feedback [[paper]](https://arxiv.org/pdf/2411.05273)
+  - Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning [[paper]](https://arxiv.org/pdf/2502.01616)
 ## 2. Vision Language Models for RL-Based Decision Making
   - Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation? [[paper]](https://arxiv.org/abs/2204.11134)
   - Code as Reward: Empowering Reinforcement Learning with VLMs [[paper]](https://arxiv.org/abs/2402.04764)
