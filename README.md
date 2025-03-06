@@ -79,6 +79,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL [[paper]](https://arxiv.org/abs/2305.19923)
   - Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling [[paper]](https://arxiv.org/abs/2209.14548)
   - Reasoning with Latent Diffusion in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.06599)
+  - Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/10423845)
  ### 3.2 Diffusion models for planning
   - AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners [[paper]](https://arxiv.org/abs/2302.01877)
   - Adaptive Online Replanning with Diffusion Models [[paper]](https://arxiv.org/abs/2310.09629)
@@ -92,6 +93,7 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Refining Diffusion Planner for Reliable Behavior Synthesis by Automatic Detection of Infeasible Plans [[paper]](https://arxiv.org/abs/2310.19427)
   - SafeDiffuser: Safe Planning with Diffusion Probabilistic Models via Control Barrier Functions [[paper]](https://arxiv.org/abs/2306.00148)
   - SSD: Sub-trajectory Stitching with Diffusion Model for Goal-Conditioned Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2402.07226)
+  - DiffSkill: Improving Reinforcement Learning through diffusion-based skill denoiser for robotic manipulation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124008244)
  ### 3.3 Diffusion models for inverse RL
   - Extracting Reward Functions from Diffusion Models [[paper]](https://arxiv.org/abs/2306.01804)
   - Reward-Directed Conditional Diffusion Models for Directed Generation and Representation Learning [[paper]](https://arxiv.org/abs/2307.07055)
@@ -135,6 +137,13 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - iVideoGPT: Interactive VideoGPTs are Scalable World Models [[paper]](https://arxiv.org/abs/2405.15223)
   - Zero-shot Safety Prediction for Autonomous Robots with Foundation World Models [[paper]](https://arxiv.org/abs/2404.00462)
   - Genie: Generative Interactive Environments [[paper]](https://arxiv.org/abs/2402.15391)
+  - Improving Transformer World Models for Data-Efficient RL [[paper]](https://arxiv.org/pdf/2502.01591)
+  - INVESTIGATING ONLINE RL IN WORLD MODELS [[paper]](https://openreview.net/pdf?id=xw4jtToUrf)
+  - RoboDreamer: Learning Compositional World Models for Robot Imagination [[paper]](https://arxiv.org/pdf/2404.12377)
+  - R-AIF: SOLVING SPARSE-REWARD ROBOTIC TASKS FROM PIXELS WITH ACTIVE INFERENCE AND WORLD MODELS [[paper]](https://arxiv.org/pdf/2409.14216)
+  - Learning View-invariant World Models for Visual Robotic Manipulation [[paper]](https://openreview.net/forum?id=vJwjWyt4Ed)
+  - MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation [[paper]](https://ieeexplore.ieee.org/abstract/document/10611121)
+  - Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning [[paper]](https://arxiv.org/pdf/2408.14472)
 ## 5. Transformer Reinforcement Learning Models
   - Multi-agent reinforcement learning is a sequence modeling problem [[paper]](https://arxiv.org/abs/2205.14953)
   - Hyper-decision transformer for efficient online policy adaptation [[paper]](https://arxiv.org/abs/2304.08487)
