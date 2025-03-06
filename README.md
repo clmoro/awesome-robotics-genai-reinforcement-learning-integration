@@ -71,7 +71,6 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2304.12824)
   - Efficient Diffusion Policies for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2305.20081)
   - Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching [[paper]](https://arxiv.org/abs/2306.14079)
-  - IDQL: Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies [[paper]](https://arxiv.org/abs/2304.10573)
   - Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2306.04875)
   - Learning a Diffusion Model Policy from Rewards via Q-Score Matching [[paper]](https://arxiv.org/abs/2312.11752)
   - Learning to Reach Goals via Diffusion [[paper]](https://arxiv.org/abs/2310.02505)
@@ -114,6 +113,10 @@ Large pre-trained models, such as foundation models (FMs), despite their powerfu
   - Policy-Guided Diffusion [[paper]](https://arxiv.org/abs/2404.06356)
   - Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control [[paper]](https://arxiv.org/pdf/2405.05852)
   - Diffusion Policy Policy Optimization [[paper]](https://arxiv.org/abs/2409.00588)
+  - IDQL: Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies [[paper]](https://arxiv.org/abs/2304.10573)
+  - REVISITING GENERATIVE POLICIES: A SIMPLER REINFORCEMENT LEARNING ALGORITHMIC PERSPECTIVE [[paper]](https://arxiv.org/abs/2412.01245)
+  - Policy Representation via Diffusion Probability Model for Reinforcement Learning [[paper]](https://arxiv.org/pdf/2305.13122)
+  - DIFFUSION POLICIES AS AN EXPRESSIVE POLICY CLASS FOR OFFLINE REINFORCEMENT LEARNING [[paper]](https://arxiv.org/pdf/2208.06193)
 ## 4. Reinforcement Learning Leverages Video Prediction and World Models
  ### 4.1 Learning robotic tasks with video prediction
   - Foundation Reinforcement Learning (FRL) [[paper]](https://arxiv.org/abs/2310.02635)
