@@ -13,7 +13,7 @@ We also provide five Excel files (one for each category) that offer detailed sum
 To visualize the evolution of research in this domain, the following figure illustrates the trends in the integration of generative AI and reinforcement learning for robotics.
 
 <div align="center">
-  <img src="./Images/Timelinepapers.png" alt="Timeline of Research Papers by Category." width="700"/>
+  <img src="./Images/Timelinepapers.PNG" alt="Timeline of Research Papers by Category." width="700"/>
   <br>
   <em>Figure 1: Trends in generative AI and reinforcement learning integration for robotic reasoning. [cite_start]The figure illustrates the number of papers published each year integrating both generative AI and RL in robotics, categorized by the type of model employed.</em>
 </div>
