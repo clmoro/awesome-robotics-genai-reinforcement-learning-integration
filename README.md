@@ -23,13 +23,18 @@ To visualize the evolution of research in this domain, the following figure illu
 
 Our review paper examines the integration of generative AI models, specifically transformer- and diffusion-based models, with reinforcement learning (RL) to advance robotic physical grounding, ensuring robotic actions are based on environment interactions rather than purely computational inference. Our primary focus is on the interplay between generative AI and RL for robotics downstream tasks. Specifically, we investigate: (1) The role of generative AI tools (large language models, vision-language models, diffusion models, and world models) as priors in RL-based robotics. (2) The integration of different input-output modalities from pre-trained modules into the RL training loop. (3) How RL can train generative models for robotic policies, similar to its applications in language models. We then propose a new taxonomy based on our findings. Lastly, we identify key trends and open challenges, accounting for model scalability, generalizability, and grounding. Moreover, we devise architectural trade-offs in RL fine-tuning strategies for generative policies. We also reflect on issues inherent to generative black-box policies, such as safety concerns and failure modes, which could be addressed through learning-based approaches like RL. Actually, our findings suggest that learning-based control techniques will play a crucial role in grounding generative policies within real-world constraints in general. A curated collection of relevant research papers is maintained on our GitHub repository, serving as a resource for ongoing research and development in this field.
 
-*(Keywords: Robotics, Generative AI, Foundation model, Reinforcement learning, Physical grounding)* <div align="center">
-  <img src="./Images/RL_Duality_Fig4.png" alt="Duality between RL and generative AI models in robotics (Figure 4 from paper)." width="700"/>
-  </div>
+*(Keywords: Robotics, Generative AI, Foundation model, Reinforcement learning, Physical grounding)*
 
-<div align="center">
- <img src="./Images/RL_Duality.jpg" alt="Duality between Foundation Models and Reinforcement Learning." width="700"/>
-</div>
+### The Duality of Generative AI and Reinforcement Learning
+
+The relationship between Reinforcement Learning (RL) and state-of-the-art generative models is a central theme of our review. [cite_start]This interplay is a duality with mutual benefits: generative models enhance RL capabilities, and RL helps ground generative policies in real-world applications.  This symbiotic relationship is depicted in the following figures.
+
+<br>
+
+| **(a) Generative AI Tools for RL** | **(b) RL for Generative Policies** |
+| :---: | :---: |
+| <img src="./Images/Gen_tools_RL.PNG" alt="Figure 2a: Generative AI Tools for RL" width="400"/> | <img src="./Images/RL_GEN_Tools.PNG" alt="Figure 2b: RL for Generative Policies" width="400"/> |
+| In **Figure (a)**, we illustrate scenarios where various generative AI tools enhance RL capabilities. LLMs aid in symbolic reasoning for rewards or policy generation, VLMs augment these processes through scene understanding, while diffusion models contribute by working with low-level trajectories. [cite_start]Lastly, robot state estimation and prediction are informed by VPMs or world models.  | The second dimension of our taxonomy, shown in **Figure (b)**, examines how RL methods are used to train generative models. This offers a complementary perspective to using generative AI as tools for RL. [cite_start]Here, we analyze works where RL is directly used to optimize models for generation, including Policy Pre-Training, RL Fine-Tuning, and Policy Distillation.  |
 
 ## Content of the paper
 
