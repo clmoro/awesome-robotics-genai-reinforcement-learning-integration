@@ -124,6 +124,12 @@ aspects are important when selecting a tool for the RL tasks
 - A generalizable egovision multimodal world model for fine-grained ego-motion, object dynamics, and scene composition control [[paper]](https://doi.org/10.48550/arXiv.2412.11198)
 - Video prediction models as rewards for reinforcement learning [[paper]](https://arxiv.org/abs/2305.14343)
 - UniSim: Learning Interactive Real-World Simulators [[paper]](https://arxiv.org/abs/2310.06114)
+
+### Modality
+
+This section focuses on the classification of the five types of generative AI models used in RL with an emphasis on how their input/output modalities shape their role within RL frameworks. These modalities vary across models: LLMs process text; VLMs combine visual and textual data; diffusion models handle a range of low-level and sensory modalities; world models integrate multiple modalities and generate internal representations. In the following, we analyze how these modality choices translate into trade-offs between abstraction and grounding, diversity and specificity for RL tasks, and ease of integration with RL agents.
+
+#### 1. Trade-offs Between Abstraction and Grounding
 - 
 
 
