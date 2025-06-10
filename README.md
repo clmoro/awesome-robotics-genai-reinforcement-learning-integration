@@ -136,7 +136,7 @@ This section focuses on the classification of the five types of generative AI mo
 | **Diffusion Models** | Low-level/Sensory Data                    | Low-level Control Actions              | **Fine-grained Control:** Policy learning, state generation, precise continuous control signals in action space. | High Grounding, Less Abstraction                         |
 | **World Models** | Multi-modal (Visual, Text, Proprioceptive, etc.) | Multi-modal State Representations, Predictions | **Environment Dynamics & Planning:** Learning predictive models, rich multi-modal state representations, supporting model-based RL. | Fuses Abstraction & Grounding                            |
 
-#### 1. Trade-offs Between Abstraction and Grounding
+### Task
 
 
 
