@@ -43,6 +43,14 @@ The relationship between Reinforcement Learning (RL) and state-of-the-art genera
  <img src="./Images/Taxonomy.PNG" alt="Paper structure." width="800"/>
 </div>
 
+
+## Generative Tools for RL
+**Generative Tools for RL** explores how various architectures from modern generative AI can be integrated into the RL training loop. We analyze prior work on leveraging generative and foundation models to enhance robotics, focusing on architectures based on Transformer or Diffusion backbones. "As tools" highlights that pre-trained foundation models (like LLMs) are not being retrained end-to-end with the RL agent, but are instead leveraged in a modular way — as plug-and-play components that provide capabilities (such as understanding or generating specific modalities) that the RL agent can use during training or decision making.
+
+For Generative Tools for RL, we categorize papers based on their underlying model architecture, which we refer to as the **Base Model**; the input and output modalities, referred to as **Modality**; and finally, the aim of the RL process, which we call the **Task**.
+
+### Base Model
+
 ## 1. Large Language Models Enhance Reasoning Capabilities in RL Agents
  ### 1.1 Inverse RL: generating the reward function through LLMs
   - Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models [[paper]](https://arxiv.org/abs/2311.02379)
