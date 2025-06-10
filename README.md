@@ -51,6 +51,9 @@ For Generative Tools for RL, we categorize papers based on their underlying mode
 
 ### Base Model
 
+The Base Model section classifies the papers according to their backbone architecture, briefly describes their features, and summarizes key aspects in tables. These
+aspects are important when selecting a tool for the RL tasks
+
 ## 1. Large Language Models Enhance Reasoning Capabilities in RL Agents
  ### 1.1 Inverse RL: generating the reward function through LLMs
   - Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models [[paper]](https://arxiv.org/abs/2311.02379)
