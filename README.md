@@ -130,7 +130,7 @@ aspects are important when selecting a tool for the RL tasks
 This section focuses on the classification of the five types of generative AI models used in RL with an emphasis on how their input/output modalities shape their role within RL frameworks. These modalities vary across models: LLMs process text; VLMs combine visual and textual data; diffusion models handle a range of low-level and sensory modalities; world models integrate multiple modalities and generate internal representations. In the following, we analyze how these modality choices translate into trade-offs between abstraction and grounding, diversity and specificity for RL tasks, and ease of integration with RL agents.
 
 #### 1. Trade-offs Between Abstraction and Grounding
-- 
+
 
 
 
