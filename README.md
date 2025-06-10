@@ -129,6 +129,13 @@ aspects are important when selecting a tool for the RL tasks
 
 This section focuses on the classification of the five types of generative AI models used in RL with an emphasis on how their input/output modalities shape their role within RL frameworks. These modalities vary across models: LLMs process text; VLMs combine visual and textual data; diffusion models handle a range of low-level and sensory modalities; world models integrate multiple modalities and generate internal representations. In the following, we analyze how these modality choices translate into trade-offs between abstraction and grounding, diversity and specificity for RL tasks, and ease of integration with RL agents.
 
+| Model Type         | Input Modality                            | Output Modality                        | Primary Role in RL                                                                      | Trade-off Focus                                          |
+| :----------------- | :---------------------------------------- | :------------------------------------- | :-------------------------------------------------------------------------------------- | :------------------------------------------------------- |
+| **LLMs** | Text                                      | Text                                   | **Abstract Reasoning:** Symbolic processing, task goals, reward signals, high-level objectives, task refinements. | High Abstraction, Less Grounding                         |
+| **VLMs** | Visual + Text                             | Reasoning over Visuals                 | **Visual Feedback/Context:** Visual scene understanding, reasoning over visual inputs, bridging visual and textual context. | High Abstraction, Moderately Grounded                    |
+| **Diffusion Models** | Low-level/Sensory Data                    | Low-level Control Actions              | **Fine-grained Control:** Policy learning, state generation, precise continuous control signals in action space. | High Grounding, Less Abstraction                         |
+| **World Models** | Multi-modal (Visual, Text, Proprioceptive, etc.) | Multi-modal State Representations, Predictions | **Environment Dynamics & Planning:** Learning predictive models, rich multi-modal state representations, supporting model-based RL. | Fuses Abstraction & Grounding                            |
+
 #### 1. Trade-offs Between Abstraction and Grounding
 
 
