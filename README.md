@@ -164,14 +164,14 @@ This section explores how generative AI models address key challenges in robotic
 
 #### State Representation
 
-##### Learning representations from videos
+##### 1.Learning representations from videos
 - FoundationReinforcement Learning: towards Embodied Generalist Agents with Foundation Prior Assistance [[paper]](https://doi.org/10.48550/arXiv.2310.02635)
 - Learning Universal Policies via Text-Guided Video Generation [[paper]](https://arxiv.org/abs/2302.00111)
 - Robotic offline rl from internet videos via value-function pre-training [[paper]](https://arxiv.org/abs/2309.13041)
 - Where are we in the search for an artificial visual cortex for embodied intelligence? [[paper]](https://arxiv.org/abs/2303.18240)
 
 
-##### Foundation world models for model-based RL
+##### 2.Foundation world models for model-based RL
 - Daydreamer: World models for physical robot learning [[paper]](https://arxiv.org/abs/2206.14176)
 - Recurrent World Models Facilitate Policy Evolution [[paper]](https://papers.nips.cc/paper_files/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)
 - Masked World Models for Visual Control [[paper]](https://arxiv.org/abs/2206.14244)
@@ -182,7 +182,15 @@ This section explores how generative AI models address key challenges in robotic
 - Genie: Generative Interactive Environments [[paper]](https://arxiv.org/abs/2402.15391)
 - On the role of forgetting in fine-tuning reinforcement learning models [[paper]](https://doi.org/10.48550/arXiv.2402.02868)
 
-  
+####  Policy Learning
+
+##### 1.LLMs for exploration
+- Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning [[paper]](https://arxiv.org/abs/2302.02662)
+- Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration [[paper]](https://arxiv.org/abs/2002.09253)
+- Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance [[paper]](https://arxiv.org/abs/2310.10021)
+
+##### 2.VLMs for exploration
+- 
   
 
 
@@ -193,11 +201,8 @@ This section explores how generative AI models address key challenges in robotic
 
 ## 1. Large Language Models Enhance Reasoning Capabilities in RL Agents
  ### 1.1 Inverse RL: generating the reward function through LLMs
-  - Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration [[paper]](https://arxiv.org/abs/2002.09253)
   - Utilizing Large Language Models for Robot Skill Reward Shaping in Reinforcement Learning [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_1)
  ### 1.2 Large language models to directly generate or refine RL policies
-  - Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance [[paper]](https://arxiv.org/abs/2310.10021)
-  - Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning [[paper]](https://arxiv.org/abs/2302.02662)
   - Language Instructed Reinforcement Learning for Human-AI Coordination [[paper]](https://arxiv.org/abs/2304.07297)
   - Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs [[paper]](https://arxiv.org/abs/2408.06520)
   - RLingua: Improving Reinforcement Learning Sample Efficiency in Robotic Manipulations With Large Language Models [[paper]](https://rlingua.github.io/)
@@ -223,7 +228,6 @@ This section explores how generative AI models address key challenges in robotic
   - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2304.12824)
   - Efficient Diffusion Policies for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2305.20081)
   - Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching [[paper]](https://arxiv.org/abs/2306.14079)
-  - Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2306.04875)
   - Reasoning with Latent Diffusion in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.06599)
   - Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/10423845)
  ### 3.2 Diffusion models for planning
