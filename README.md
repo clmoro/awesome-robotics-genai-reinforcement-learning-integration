@@ -166,6 +166,10 @@ This section explores how generative AI models address key challenges in robotic
 #### State Representation
 
 ##### Learning representations from videos
+- FoundationReinforcement Learning: towards Embodied Generalist Agents with Foundation Prior Assistance [[paper]](https://doi.org/10.48550/arXiv.2310.02635)
+- Learning Universal Policies via Text-Guided Video Generation [[paper]](https://arxiv.org/abs/2302.00111)
+- Robotic offline rl from internet videos via value-function pre-training [[paper]](https://arxiv.org/abs/2309.13041)
+- Where are we in the search for an artificial visual cortex for embodied intelligence? [[paper]](https://arxiv.org/abs/2303.18240)
 
 
 
@@ -233,9 +237,6 @@ This section explores how generative AI models address key challenges in robotic
 ## 4. Reinforcement Learning Leverages Video Prediction and World Models
  ### 4.1 Learning robotic tasks with video prediction
   - Foundation Reinforcement Learning (FRL) [[paper]](https://arxiv.org/abs/2310.02635)
-  - Learning Universal Policies via Text-Guided Video Generation [[paper]](https://arxiv.org/abs/2302.00111)
-  - Robotic offline rl from internet videos via value-function pre-training [[paper]](https://arxiv.org/abs/2309.13041)
-  - Where are we in the search for an artificial visual cortex for embodied intelligence? [[paper]](https://arxiv.org/abs/2303.18240)
  ### 4.2 Foundation world models for model-based RL
   - Masked World Models for Visual Control [[paper]](https://arxiv.org/abs/2206.14244)
   - Multi-View Masked World Models for Visual Robotic Manipulation [[paper]](https://arxiv.org/abs/2302.02408)
