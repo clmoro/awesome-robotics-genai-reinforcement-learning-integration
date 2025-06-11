@@ -107,7 +107,6 @@ aspects are important when selecting a tool for the RL tasks
 - A generalizable egovision multimodal world model for fine-grained ego-motion, object dynamics, and scene composition control [[paper]](https://doi.org/10.48550/arXiv.2412.11198)
 - World models for physical robot learning [[paper]](https://arxiv.org/abs/2206.14176)
 - GenRL: Multimodal Foundation World Models for Generalist Embodied Agents [[paper]](https://arxiv.org/abs/2406.18043)
-- Recurrent World Models Facilitate Policy Evolution [[paper]](https://papers.nips.cc/paper_files/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)
 - EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents [[paper]](https://arxiv.org/abs/2403.12014)
 - Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling [[paper]](https://arxiv.org/abs/2301.12050)
 - GenSim: Generating Robotic Simulation Tasks via Large Language Models [[paper]](https://arxiv.org/abs/2310.01361)
@@ -172,7 +171,16 @@ This section explores how generative AI models address key challenges in robotic
 - Where are we in the search for an artificial visual cortex for embodied intelligence? [[paper]](https://arxiv.org/abs/2303.18240)
 
 
-
+##### Foundation world models for model-based RL
+- Daydreamer: World models for physical robot learning [[paper]](https://arxiv.org/abs/2206.14176)
+- Recurrent World Models Facilitate Policy Evolution [[paper]](https://papers.nips.cc/paper_files/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)
+- Masked World Models for Visual Control [[paper]](https://arxiv.org/abs/2206.14244)
+- Multi-View Masked World Models for Visual Robotic Manipulation [[paper]](https://arxiv.org/abs/2302.02408)
+- RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation [[paper]](https://arxiv.org/abs/2311.01455)
+- iVideoGPT: Interactive VideoGPTs are Scalable World Models [[paper]](https://arxiv.org/abs/2405.15223)
+- Zero-shot Safety Prediction for Autonomous Robots with Foundation World Models [[paper]](https://arxiv.org/abs/2404.00462)
+- Genie: Generative Interactive Environments [[paper]](https://arxiv.org/abs/2402.15391)
+- On the role of forgetting in fine-tuning reinforcement learning models [[paper]](https://doi.org/10.48550/arXiv.2402.02868)
 
   
   
@@ -238,13 +246,6 @@ This section explores how generative AI models address key challenges in robotic
  ### 4.1 Learning robotic tasks with video prediction
   - Foundation Reinforcement Learning (FRL) [[paper]](https://arxiv.org/abs/2310.02635)
  ### 4.2 Foundation world models for model-based RL
-  - Masked World Models for Visual Control [[paper]](https://arxiv.org/abs/2206.14244)
-  - Multi-View Masked World Models for Visual Robotic Manipulation [[paper]](https://arxiv.org/abs/2302.02408)
-  - RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation [[paper]](https://arxiv.org/abs/2311.01455)
-  - Recurrent World Models Facilitate Policy Evolution [[paper]](https://papers.nips.cc/paper_files/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)
-  - iVideoGPT: Interactive VideoGPTs are Scalable World Models [[paper]](https://arxiv.org/abs/2405.15223)
-  - Zero-shot Safety Prediction for Autonomous Robots with Foundation World Models [[paper]](https://arxiv.org/abs/2404.00462)
-  - Genie: Generative Interactive Environments [[paper]](https://arxiv.org/abs/2402.15391)
   - Improving Transformer World Models for Data-Efficient RL [[paper]](https://arxiv.org/pdf/2502.01591)
   - Investigating online rl in world models [[paper]](https://openreview.net/pdf?id=xw4jtToUrf)
   - RoboDreamer: Learning Compositional World Models for Robot Imagination [[paper]](https://arxiv.org/pdf/2404.12377)
