@@ -131,7 +131,7 @@ This section explores how generative AI models address key challenges in robotic
 
 #### Reward Signal
 
-##### Learning reward functions with LLMs
+##### 1.Learning reward functions with LLMs
  - Text2Reward: Reward Shaping with Language Models for Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.11489)
  - Eureka: Human-Level Reward Design via Coding Large Language Models [[paper]](https://arxiv.org/abs/2310.12931)
  - Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics [[paper]](https://arxiv.org/abs/2309.06687)
@@ -142,7 +142,7 @@ This section explores how generative AI models address key challenges in robotic
  - FoMo Rewards: Can we cast foundation models as reward functions? [[paper]](https://arxiv.org/abs/2312.03881)
  - Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation [[paper]](https://arxiv.org/abs/2109.01115)
 
-##### VLMs for reward learning
+##### 2.VLMs for reward learning
 - Learning transferable visual models from natural language supervision [[paper]](https://doi.org/10.48550/arXiv.2103.00020)
 - Zero-shot text-to-image generation [[paper]](https://doi.org/10.48550/arXiv.2102.12092)
 - Vision-Language Models as a Source of Rewards [[paper]](https://arxiv.org/abs/2312.09187)
@@ -152,17 +152,20 @@ This section explores how generative AI models address key challenges in robotic
 - Robot Fine-Tuning Made Easy: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning [[paper]](https://arxiv.org/abs/2310.15145)
 - Affordance-Guided Reinforcement Learning via Visual Prompting [[paper]](https://arxiv.org/abs/2407.10341v1)
 
-##### Reward learning with diffusion models
+##### 3.Reward learning with diffusion models
 - Diffusion Reward: Learning Rewards via Conditional Video Diffusion [[paper]](https://arxiv.org/abs/2312.14134)
 - Extracting Reward Functions from Diffusion Models [[paper]](https://arxiv.org/abs/2306.01804)
 - Diffused Value Function: Value Function Estimation using Conditional Diffusion Models for Control [[paper]](https://arxiv.org/abs/2306.07290)
 
-##### Learning rewards from video prediction
+##### 4.Learning rewards from video prediction
 - Learning Generalizable Robotic Reward Functions from 'In-The-Wild' Human Videos [[paper]](https://arxiv.org/abs/2103.16817)
 - Video prediction models as rewards for reinforcement learning [[paper]](https://arxiv.org/abs/2305.14343)
 - Learning reward functions for robotic manipulation by observing humans [[paper]](https://arxiv.org/abs/2211.09019)
 - Vip: Towards universal visual reward and representation via value-implicit pre-training [[paper]](https://arxiv.org/abs/2210.00030)
 
+#### State Representation
+
+##### Learning representations from videos
 
 
 
