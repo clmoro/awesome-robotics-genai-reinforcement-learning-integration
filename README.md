@@ -77,20 +77,12 @@ aspects are important when selecting a tool for the RL tasks
 - The dark side of rich rewards: Understanding and mitigating noise in vlm rewards [[paper]](https://doi.org/10.48550/arXiv.2409.15922)
 
 #### 3.Diffusion models
-- High-resolution image synthesis with latent diffusion models [[paper]](https://doi.org/10.1109/CVPR52688.2022.01042)
 - Scaling rectified flow transformers for high-resolution image synthesis [[paper]](https://doi.org/10.48550/arXiv.2403.03206)
-- Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2304.12824)
-- Efficient Diffusion Policies for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2305.20081)
-- Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching [[paper]](https://arxiv.org/abs/2306.14079)
 - IDQL: Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies [[paper]](https://arxiv.org/abs/2304.10573)
-- Robust policy learning via offline skill diffusion [[paper]](https://doi.org/10.48550/arXiv.2403.00225)
-- Reasoning with Latent Diffusion in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.06599)
-- Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2306.04875)
 - Learning a Diffusion Model Policy from Rewards via Q-Score Matching [[paper]](https://arxiv.org/abs/2312.11752)
 - Learning to Reach Goals via Diffusion [[paper]](https://arxiv.org/abs/2310.02505)
 - Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling [[paper]](https://arxiv.org/abs/2209.14548)
 - MADIFF: Offline Multi-agent Learning with Diffusion Models [[paper]](https://arxiv.org/abs/2305.17330)
-- MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL [[paper]](https://arxiv.org/abs/2305.19923)
 - Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[paper]](https://arxiv.org/abs/2303.04137)
 - Diffuseloco: Real-time legged locomotion control with diffusion from offline datasets[[paper]](https://doi.org/10.48550/arXiv.2404.19264)
 - Goal masked diffusion policies for navigation and exploration [[paper]](https://doi.org/10.1109/ICRA57147.2024.10610665)
@@ -100,6 +92,7 @@ aspects are important when selecting a tool for the RL tasks
 - SafeDiffuser: Safe Planning with Diffusion Probabilistic Models via Control Barrier Functions [[paper]](https://arxiv.org/abs/2306.00148)
 - AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners [[paper]](https://arxiv.org/abs/2302.01877)
 - Flow q-learning [[paper]](https://doi.org/10.48550/arXiv.2502.02538)
+- High-resolution image synthesis with latent diffusion models [[paper]](https://doi.org/10.1109/CVPR52688.2022.01042)
 
 #### 4.World Models and Video Prediction Models
 - A generalizable egovision multimodal world model for fine-grained ego-motion, object dynamics, and scene composition control [[paper]](https://doi.org/10.48550/arXiv.2412.11198)
@@ -207,16 +200,15 @@ This section explores how generative AI models address key challenges in robotic
 - Language Control Diffusion: Efficiently Scaling Through Space, Time, and Tasks [[paper]](https://arxiv.org/abs/2210.15629)
 
 #### Offline RL
-- 
+- Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2304.12824)
+- Efficient Diffusion Policies for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2305.20081)
+- Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching [[paper]](https://arxiv.org/abs/2306.14079)
+- Robust policy learning via offline skill diffusion [[paper]](https://doi.org/10.48550/arXiv.2403.00225)
+- Reasoning with Latent Diffusion in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.06599)
+- Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2306.04875)
+- MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL [[paper]](https://arxiv.org/abs/2305.19923)
 
   
-
-
-
-
-
-
-
 ## 1. Large Language Models Enhance Reasoning Capabilities in RL Agents
  ### 1.1 Inverse RL: generating the reward function through LLMs
   - Utilizing Large Language Models for Robot Skill Reward Shaping in Reinforcement Learning [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_1)
@@ -237,9 +229,6 @@ This section explores how generative AI models address key challenges in robotic
 ## 3. RL Robot Control Empowered by Diffusion Models
  ### 3.1 Diffusion models for offline RL
   - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2304.12824)
-  - Efficient Diffusion Policies for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2305.20081)
-  - Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching [[paper]](https://arxiv.org/abs/2306.14079)
-  - Reasoning with Latent Diffusion in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.06599)
   - Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/10423845)
  ### 3.2 Diffusion models for planning
   - DiPPeR: Diffusion-based 2D Path Planner applied on Legged Robots [[paper]](https://arxiv.org/abs/2310.07842)
