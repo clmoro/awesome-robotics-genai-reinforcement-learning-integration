@@ -101,7 +101,6 @@ aspects are important when selecting a tool for the RL tasks
 - EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents [[paper]](https://arxiv.org/abs/2403.12014)
 - Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling [[paper]](https://arxiv.org/abs/2301.12050)
 - GenSim: Generating Robotic Simulation Tasks via Large Language Models [[paper]](https://arxiv.org/abs/2310.01361)
-- Evaluating real-world robot manipulation policies in simulation [[paper]](https://doi.org/10.48550/arXiv.2405.05941)
 - A generalizable egovision multimodal world model for fine-grained ego-motion, object dynamics, and scene composition control [[paper]](https://doi.org/10.48550/arXiv.2412.11198)
 - UniSim: Learning Interactive Real-World Simulators [[paper]](https://arxiv.org/abs/2310.06114)
 
@@ -250,6 +249,13 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - Diffusion policies as an expressive policy class for offline reinforcement learning [[paper]](https://arxiv.org/pdf/2208.06193)
 
 
+
+### Policy Distillation
+- OpenVLA: An Open-Source Vision-Language-Action Model [[paper]](https://doi.org/10.48550/arXiv.2406.09246)
+- Octo: An Open-Source Generalist Robot Policy [[paper]](https://doi.org/10.48550/arXiv.2405.12213)
+- Refined policy distillation: From vla generalists to rl experts [[paper]](https://doi.org/10.48550/arXiv.2503.05833)
+- Rldg: Robotic generalist policy distillation via reinforcement learning [[paper]](https://doi.org/10.48550/arXiv.2412.09858)
+- Evaluating real-world robot manipulation policies in simulation [[paper]](https://doi.org/10.48550/arXiv.2405.05941)
 
   
 ## 1. Large Language Models Enhance Reasoning Capabilities in RL Agents
