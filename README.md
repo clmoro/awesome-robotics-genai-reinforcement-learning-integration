@@ -212,7 +212,9 @@ This section explores how generative AI models address key challenges in robotic
 ## RL for Generative Policies 
 The second primary dimension of our taxonomy examines RL methods used to train generative models, offering a complementary perspective to Generative AI Tools for RL. Here, we analyze works that employ RL-based approaches to pre-train, fine-tune, or distill generative policies—where reinforcement learning is used directly to optimize models for action generation. We organize our discussion along three secondary dimensions, which we refer to as: (i) RL-Based Pre-Training, (ii) RL-Based Fine-Tuning, and (iii) Policy Distillation
 
-### Transformer Policy
+### RL Pre-Training 
+
+#### 1.Transformer Policy
   - Multi-agent reinforcement learning is a sequence modeling problem [[paper]](https://arxiv.org/abs/2205.14953)
   - Hyper-decision transformer for efficient online policy adaptation [[paper]](https://arxiv.org/abs/2304.08487)
   - Prompt-tuning decision transformer with preference ranking [[paper]](https://arxiv.org/abs/2305.09648)
@@ -228,7 +230,7 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions [[paper]](https://arxiv.org/abs/2309.10150)
   - Anymorph: Learning transferable polices by inferring agent morphology [[paper]](https://arxiv.org/abs/2206.12279)
 
-### Diffusion Policy
+#### 2.Diffusion Policy
   - Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.16984)
   - Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2208.06193)
   - Beyond Conservatism: Diffusion Policies in Offline Multi-agent Reinforcement Learning [[paper]](https://arxiv.org/abs/2307.01472)
