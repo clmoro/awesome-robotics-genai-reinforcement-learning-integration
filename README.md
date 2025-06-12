@@ -130,6 +130,8 @@ This section explores how generative AI models address key challenges in robotic
  - Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks [[paper]](https://arxiv.org/abs/2309.16347)
  - FoMo Rewards: Can we cast foundation models as reward functions? [[paper]](https://arxiv.org/abs/2312.03881)
  - Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation [[paper]](https://arxiv.org/abs/2109.01115)
+ - RLingua: Improving Reinforcement Learning Sample Efficiency in Robotic Manipulations With Large Language Models [[paper]](https://rlingua.github.io/)
+ - Game On: Towards Language Models as RL Experimenters [[paper]](https://arxiv.org/pdf/2409.03402)
 
 ##### 2.VLMs for reward learning
 - Learning transferable visual models from natural language supervision [[paper]](https://doi.org/10.48550/arXiv.2103.00020)
@@ -159,6 +161,7 @@ This section explores how generative AI models address key challenges in robotic
 - Learning Universal Policies via Text-Guided Video Generation [[paper]](https://arxiv.org/abs/2302.00111)
 - Robotic offline rl from internet videos via value-function pre-training [[paper]](https://arxiv.org/abs/2309.13041)
 - Where are we in the search for an artificial visual cortex for embodied intelligence? [[paper]](https://arxiv.org/abs/2303.18240)
+- Foundation Reinforcement Learning (FRL) [[paper]](https://arxiv.org/abs/2310.02635)
 
 
 ##### 2.Foundation world models for model-based RL
@@ -171,6 +174,13 @@ This section explores how generative AI models address key challenges in robotic
 - Zero-shot Safety Prediction for Autonomous Robots with Foundation World Models [[paper]](https://arxiv.org/abs/2404.00462)
 - Genie: Generative Interactive Environments [[paper]](https://arxiv.org/abs/2402.15391)
 - On the role of forgetting in fine-tuning reinforcement learning models [[paper]](https://doi.org/10.48550/arXiv.2402.02868)
+- Improving Transformer World Models for Data-Efficient RL [[paper]](https://arxiv.org/pdf/2502.01591)
+- Investigating online rl in world models [[paper]](https://openreview.net/pdf?id=xw4jtToUrf)
+- RoboDreamer: Learning Compositional World Models for Robot Imagination [[paper]](https://arxiv.org/pdf/2404.12377)
+- R-AIF: Solving sparse-reward robotic tasks from pixels with active inference and world models [[paper]](https://arxiv.org/pdf/2409.14216)
+- Learning View-invariant World Models for Visual Robotic Manipulation [[paper]](https://openreview.net/forum?id=vJwjWyt4Ed)
+- MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation [[paper]](https://ieeexplore.ieee.org/abstract/document/10611121)
+- Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning [[paper]](https://arxiv.org/pdf/2408.14472)
 
 ####  Policy Learning
 
@@ -186,6 +196,9 @@ This section explores how generative AI models address key challenges in robotic
 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[paper]](https://arxiv.org/abs/2204.01691)
 - Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents [[paper]](https://arxiv.org/abs/2303.00855)
 - Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks [[paper]](https://arxiv.org/abs/2405.01534)
+- Utilizing Large Language Models for Robot Skill Reward Shaping in Reinforcement Learning [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_1)
+- Language Instructed Reinforcement Learning for Human-AI Coordination [[paper]](https://arxiv.org/abs/2304.07297)
+- Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs [[paper]](https://arxiv.org/abs/2408.06520)
 
 ##### 4.Diffusion models for planning and exploration
 - Generative adversarial imitation learning [[paper]](https://doi.org/10.48550/arXiv.1606.03476)
@@ -266,13 +279,6 @@ The second primary dimension of our taxonomy examines RL methods used to train g
 
   
 ## 1. Large Language Models Enhance Reasoning Capabilities in RL Agents
- ### 1.1 Inverse RL: generating the reward function through LLMs
-  - Utilizing Large Language Models for Robot Skill Reward Shaping in Reinforcement Learning [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-0783-9_1)
- ### 1.2 Large language models to directly generate or refine RL policies
-  - Language Instructed Reinforcement Learning for Human-AI Coordination [[paper]](https://arxiv.org/abs/2304.07297)
-  - Retrieval-Augmented Hierarchical in-Context Reinforcement Learning and Hindsight Modular Reflections for Task Planning with LLMs [[paper]](https://arxiv.org/abs/2408.06520)
-  - RLingua: Improving Reinforcement Learning Sample Efficiency in Robotic Manipulations With Large Language Models [[paper]](https://rlingua.github.io/)
-  - Game On: Towards Language Models as RL Experimenters [[paper]](https://arxiv.org/pdf/2409.03402)
  ### 1.3 Grounding LLM plans in real world through RL generated primitives
   - LLM Augmented Hierarchical Agents [[paper]](https://arxiv.org/abs/2311.05596)
   - Real-World Offline Reinforcement Learning from Vision Language Model Feedback [[paper]](https://arxiv.org/pdf/2411.05273)
@@ -280,26 +286,14 @@ The second primary dimension of our taxonomy examines RL methods used to train g
 ## 2. Vision Language Models for RL-Based Decision Making
   - Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning [[paper]](https://arxiv.org/abs/2310.12921)
 ## 3. RL Robot Control Empowered by Diffusion Models
- ### 3.1 Diffusion models for offline RL
  ### 3.2 Diffusion models for planning
   - SSD: Sub-trajectory Stitching with Diffusion Model for Goal-Conditioned Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2402.07226)
   - DiffSkill: Improving Reinforcement Learning through diffusion-based skill denoiser for robotic manipulation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124008244)
  ### 3.3 Diffusion models for inverse RL
   - Reward-Directed Conditional Diffusion Models for Directed Generation and Representation Learning [[paper]](https://arxiv.org/abs/2307.07055)
   - Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning? [[paper]](https://arxiv.org/abs/2307.07837)
-## 4. Reinforcement Learning Leverages Video Prediction and World Models
- ### 4.1 Learning robotic tasks with video prediction
-  - Foundation Reinforcement Learning (FRL) [[paper]](https://arxiv.org/abs/2310.02635)
- ### 4.2 Foundation world models for model-based RL
-  - Improving Transformer World Models for Data-Efficient RL [[paper]](https://arxiv.org/pdf/2502.01591)
-  - Investigating online rl in world models [[paper]](https://openreview.net/pdf?id=xw4jtToUrf)
-  - RoboDreamer: Learning Compositional World Models for Robot Imagination [[paper]](https://arxiv.org/pdf/2404.12377)
-  - R-AIF: Solving sparse-reward robotic tasks from pixels with active inference and world models [[paper]](https://arxiv.org/pdf/2409.14216)
-  - Learning View-invariant World Models for Visual Robotic Manipulation [[paper]](https://openreview.net/forum?id=vJwjWyt4Ed)
-  - MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation [[paper]](https://ieeexplore.ieee.org/abstract/document/10611121)
-  - Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning [[paper]](https://arxiv.org/pdf/2408.14472)
-  
 
+  
 ## Citation
 
 If you find our project useful, please cite our paper:
