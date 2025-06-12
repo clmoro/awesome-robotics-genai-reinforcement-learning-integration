@@ -248,7 +248,7 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - Diffusion policies as an expressive policy class for offline reinforcement learning [[paper]](https://arxiv.org/pdf/2208.06193)
   - Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/10423845)
 
-### 7.Generative Policy RL Fine-Tuning
+### Generative Policy RL Fine-Tuning
   - Policy Agnostic RL Fine-Tuning Multiple Policy Classes with Actor-Critic RL [[paper]](https://policyagnosticrl.github.io/#:~:text=We%20introduce%20Policy-2.Agnostic%20RL,and%20transformer-based%20autoregressive%20policies.)
   - Diffusion Policy Policy Optimization [[paper]](https://arxiv.org/abs/2409.00588)
   - FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning [[paper]](https://robot-flare.github.io/)
