@@ -1,4 +1,4 @@
-# Awesome Collection of Papers on The Duality of Generative AI and Reinforcement Learning in Robotics
+# Awesome Papers on The Duality of Generative AI and Reinforcement Learning in Robotics
 
 This repository contains a curated list of papers and resources related to the survey titled "**The Duality of Generative AI and Reinforcement Learning in Robotics: A Review**". The paper explores the synergy between modern generative AI tools (transformer- and diffusion-based models) and Reinforcement Learning (RL) for advancing robotic intelligence and physical grounding.
 
