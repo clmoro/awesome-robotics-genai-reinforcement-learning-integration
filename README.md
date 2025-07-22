@@ -4,8 +4,7 @@ This repository contains a curated list of papers and resources related to the s
 
 The paper explores the synergy between modern generative AI tools (transformer- and diffusion-based models) and Reinforcement Learning (RL) for advancing robotic intelligence and physical grounding.
 
-We also provide five Excel files (one for each category) that offer detailed summaries of the analyses we performed using the paper's taxonomy. These summaries cover several features of the analyzed papers, such as `name of the framework`, `model used`, `code availability`, `dataset`, `type of application`, `simulation vs. real-world`, `crosscategories`, `experiment evaluation`, `year of publication`, and `short description`.A curated collection of relevant research papers is maintained on our GitHub repository, serving as a resource for ongoing research and development in this field. 
-
+We also provide five Excel files (one for each category) that offer detailed summaries of the analyses we performed using the paper's taxonomy. These summaries cover several features of the analyzed papers, such as `name of the framework`, `model used`, `code availability`, `dataset`, `type of application`, `simulation vs. real-world`, `crosscategories`, `experiment evaluation`, `year of publication`, and `short description`.
 <div align="center">
 <img src="./Images/FM_Robotics.PNG" alt="Paper Taxonomy." width="500"/>
 </div>
