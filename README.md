@@ -1,4 +1,4 @@
-# Awesome Papers on The Duality of Generative AI and Reinforcement Learning in Robotics
+# Awesome Papers Merging Generative AI and Reinforcement Learning in Robotics
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
