@@ -278,10 +278,11 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - FDPP: Fine-tune Diffusion Policy with Human Preference [[paper]](https://arxiv.org/html/2501.08259v1)
   - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper]](https://arxiv.org/pdf/2501.16664)
   - From Mystery to Mastery: Failure Diagnosis for Improving Manipulation Policies [[paper]](https://somsagar07.github.io/RoboMD/)
+  - VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.18719)
+  - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning [[paper]](https://arxiv.org/abs/2509.09674)
+  - Emergent World Representations in OpenVLA [[paper]](https://arxiv.org/abs/2509.24559)
 
 ### Policy Distillation
-- OpenVLA: An Open-Source Vision-Language-Action Model [[paper]](https://doi.org/10.48550/arXiv.2406.09246)
-- Octo: An Open-Source Generalist Robot Policy [[paper]](https://doi.org/10.48550/arXiv.2405.12213)
 - Refined policy distillation: From vla generalists to rl experts [[paper]](https://doi.org/10.48550/arXiv.2503.05833)
 - Rldg: Robotic generalist policy distillation via reinforcement learning [[paper]](https://doi.org/10.48550/arXiv.2412.09858)
 - Evaluating real-world robot manipulation policies in simulation [[paper]](https://doi.org/10.48550/arXiv.2405.05941)
