@@ -109,7 +109,6 @@ This section explores how generative AI models address key challenges in robotic
 - Code as Reward: Empowering Reinforcement Learning with VLMs [[paper]](https://openreview.net/pdf?id=6P88DMUDvH)
 - Zero-Shot Reward Specification via Grounded Natural Language [[paper]](https://openreview.net/forum?id=zRb7IWkTZAU)
 - The dark side of rich rewards: Understanding and mitigating noise in vlm rewards [[paper]](https://doi.org/10.48550/arXiv.2409.15922)
-- !  [[paper]]()
 
 ##### 3.Reward learning with diffusion models
 - Diffusion Reward: Learning Rewards via Conditional Video Diffusion [[paper]](https://arxiv.org/abs/2312.14134)
@@ -117,7 +116,9 @@ This section explores how generative AI models address key challenges in robotic
 - Diffused Value Function: Value Function Estimation using Conditional Diffusion Models for Control [[paper]](https://arxiv.org/abs/2306.07290)
 - Reward-Directed Conditional Diffusion Models for Directed Generation and Representation Learning [[paper]](https://arxiv.org/abs/2307.07055)
 - Learning a Diffusion Model Policy from Rewards via Q-Score Matching [[paper]](https://arxiv.org/abs/2312.11752)
-- !  [[paper]]()
+- ! TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.19769)
+- ! GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning [[paper]](https://arxiv.org/abs/2508.11049)
+- ! GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_GenFlowRL_Shaping_Rewards_with_Generative_Object-Centric_Flow_in_Visual_Reinforcement_ICCV_2025_paper.html)
 
 ##### 4.Learning rewards from video prediction
 - Learning Generalizable Robotic Reward Functions from 'In-The-Wild' Human Videos [[paper]](https://arxiv.org/abs/2103.16817)
@@ -231,6 +232,21 @@ This section explores how generative AI models address key challenges in robotic
 - Reasoning with Latent Diffusion in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.06599)
 - Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2306.04875)
 - MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL [[paper]](https://arxiv.org/abs/2305.19923)
+- ! COLSON: Controllable Learning-Based Social Navigation via Diffusion-Based Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.13934)
+- ! Offline Reinforcement Learning with Discrete Diffusion Skills [[paper]](https://arxiv.org/abs/2503.20176)
+- ! DASP: Hierarchical Offline Reinforcement Learning via Diffusion Autodecoder and Skill Primitive [[paper]](https://ieeexplore.ieee.org/abstract/document/10816163)
+- ! Garment Diffusion Models for Robot-Assisted Dressing [[paper]](https://ieeexplore.ieee.org/abstract/document/10803021)
+- ! Enhancing Exploration With Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation [[paper]](https://ieeexplore.ieee.org/abstract/document/10978025)
+- ! Offline Adaptation of Quadruped Locomotion Using Diffusion Models [[paper]](https://ieeexplore.ieee.org/abstract/document/11128726)
+- ! DiffusionRL: Efficient Training of Diffusion Policies for Robotic Grasping Using RL-Adapted Large-Scale Datasets [[paper]](https://arxiv.org/abs/2505.18876)
+- ! Motion Planning Diffusion: Learning and Adapting Robot Motion Planning With Diffusion Models [[paper]](https://ieeexplore.ieee.org/abstract/document/11097366)
+- ! GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.18763)
+- ! Chaos-Augmented Reinforcement Learning With Diffusion Models for Robust Legged Robot Locomotion [[paper]](https://ieeexplore.ieee.org/abstract/document/11218266)
+- ! Generalizable Offline Multiobjective Reinforcement Learning via Preference-Conditioned Diffuser [[paper]](https://ieeexplore.ieee.org/abstract/document/11201894)
+- ! World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation [[paper]](https://arxiv.org/abs/2509.19080)
+- ! DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion [[paper]](https://arxiv.org/abs/2509.14353)
+- ! Continual Diffuser (CoD): Mastering Continual Offline RL With Experience Rehearsal [[paper]](https://ieeexplore.ieee.org/abstract/document/11165204)
+- ! PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching [[paper]](https://arxiv.org/abs/2509.08435)
 - !  [[paper]]()
 
 ## RL for Generative Policies 
@@ -273,29 +289,29 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - Policy Representation via Diffusion Probability Model for Reinforcement Learning [[paper]](https://arxiv.org/pdf/2305.13122)
   - Diffusion policies as an expressive policy class for offline reinforcement learning [[paper]](https://arxiv.org/pdf/2208.06193)
   - Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/10423845)
-  - !  [[paper]]()
+  - ! Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning [[paper]](https://arxiv.org/abs/2507.12977)
 
 ### Generative Policy RL Fine-Tuning
   - Policy Agnostic RL Fine-Tuning Multiple Policy Classes with Actor-Critic RL [[paper]](https://policyagnosticrl.github.io/#:~:text=We%20introduce%20Policy-2.Agnostic%20RL,and%20transformer-based%20autoregressive%20policies.)
   - Diffusion Policy Policy Optimization [[paper]](https://arxiv.org/abs/2409.00588)
   - FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning [[paper]](https://robot-flare.github.io/)
   - Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning [[paper]](https://arxiv.org/abs/2405.10292)
-  - FDPP: Fine-tune Diffusion Policy with Human Preference [[paper]](https://arxiv.org/html/2501.08259v1)
-  - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper]](https://arxiv.org/pdf/2501.16664)
-  - From Mystery to Mastery: Failure Diagnosis for Improving Manipulation Policies [[paper]](https://somsagar07.github.io/RoboMD/)
-  - VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.18719)
-  - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning [[paper]](https://arxiv.org/abs/2509.09674)
-  - Emergent World Representations in OpenVLA [[paper]](https://arxiv.org/abs/2509.24559)
-  - !  [[paper]]()
+  - ! FDPP: Fine-tune Diffusion Policy with Human Preference [[paper]](https://arxiv.org/html/2501.08259v1)
+  - ! Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper]](https://arxiv.org/pdf/2501.16664)
+  - ! From Mystery to Mastery: Failure Diagnosis for Improving Manipulation Policies [[paper]](https://somsagar07.github.io/RoboMD/)
+  - ! VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.18719)
+  - ! SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning [[paper]](https://arxiv.org/abs/2509.09674)
+  - ! Emergent World Representations in OpenVLA [[paper]](https://arxiv.org/abs/2509.24559)
+  - ! Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control [[paper]](https://arxiv.org/abs/2507.05674)
 
 ### Policy Distillation
-- Refined policy distillation: From vla generalists to rl experts [[paper]](https://doi.org/10.48550/arXiv.2503.05833)
 - Rldg: Robotic generalist policy distillation via reinforcement learning [[paper]](https://doi.org/10.48550/arXiv.2412.09858)
 - Evaluating real-world robot manipulation policies in simulation [[paper]](https://doi.org/10.48550/arXiv.2405.05941)
+- ! Refined policy distillation: From vla generalists to rl experts [[paper]](https://doi.org/10.48550/arXiv.2503.05833)
 - !  [[paper]]()
 
 ### Policy Safety (new!)
-- SafeVLA: Towards Safety Alignment of VisionLanguage-Action Model via Constrained Learning [[paper]](https://arxiv.org/pdf/2503.03480)
+- ! SafeVLA: Towards Safety Alignment of VisionLanguage-Action Model via Constrained Learning [[paper]](https://arxiv.org/pdf/2503.03480)
 - !  [[paper]]()
   
 ## Citation
