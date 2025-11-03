@@ -161,7 +161,7 @@ This section explores how generative AI models address key challenges in robotic
 - Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling [[paper]](https://arxiv.org/abs/2301.12050)
 - GenSim: Generating Robotic Simulation Tasks via Large Language Models [[paper]](https://arxiv.org/abs/2310.01361)
 - UniSim: Learning Interactive Real-World Simulators [[paper]](https://arxiv.org/abs/2310.06114)
-- !  [[paper]]()
+- ! RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation [[paper]](https://arxiv.org/abs/2501.06605)
 
 ####   Planning & Exploration
 
@@ -269,7 +269,8 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - Latte: Language trajectory transformer [[paper]](https://arxiv.org/abs/2208.02918)
   - Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions [[paper]](https://arxiv.org/abs/2309.10150)
   - Anymorph: Learning transferable polices by inferring agent morphology [[paper]](https://arxiv.org/abs/2206.12279)
-  - !  [[paper]]()
+  - ! AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning
+ [[paper]](https://arxiv.org/abs/2509.08755)
 
 #### 2.Diffusion Policy
   - Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.16984)
