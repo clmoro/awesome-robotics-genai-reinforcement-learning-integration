@@ -26,7 +26,7 @@ To visualize the evolution of research in this domain, the following figure illu
 
 ## The Duality of Generative AI and Reinforcement Learning
 
-The relationship between Reinforcement Learning and state-of-the-art generative models is a central theme of our review.This interplay is a duality with mutual benefits: generative models enhance RL capabilities, and RL helps ground generative policies in real-world applications.  This symbiotic relationship is depicted in the following figures.
+The relationship between Reinforcement Learning and state-of-the-art generative models is a central theme of our review.This interplay is a duality with mutual benefits: generative models enhance RL capabilities, and RL helps ground generative policies in real-world applications. This symbiotic relationship is depicted in the following figure.
 
 <br>
 
