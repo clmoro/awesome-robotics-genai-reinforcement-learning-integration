@@ -31,7 +31,7 @@ The relationship between Reinforcement Learning (RL) and state-of-the-art genera
 <br>
 
 <div align="center">
-<img src="./Images/Fig_2.png" alt="Duality between RL and generative AI models in robotics." width="700"/>
+<img src="./Images/Fig_2.png" alt="Duality between RL and generative AI models in robotics." width="600"/>
   <br>
   <em>Figure 2: Duality between RL and generative AI models in robotics.</em>
 </div>
