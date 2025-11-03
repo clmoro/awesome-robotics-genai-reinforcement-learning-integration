@@ -324,7 +324,6 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - Diffusion policies as an expressive policy class for offline reinforcement learning [[paper]](https://arxiv.org/pdf/2208.06193)
   - Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/10423845)
   - (2025)! Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning [[paper]](https://arxiv.org/abs/2507.12977)
-  - (2025)! Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.15799)
   - (2025)! D3P: Dynamic Denoising Diffusion Policy via Reinforcement Learning [[paper]](https://arxiv.org/abs/2508.06804)
 
 ### Generative Policy RL Fine-Tuning
@@ -348,6 +347,7 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - (2025)! What Can RL Bring to VLA Generalization? An Empirical Study [[paper]](https://arxiv.org/abs/2505.19789)
   - (2025)! Interactive Post-Training for Vision-Language-Action Models [[paper]](https://arxiv.org/abs/2505.17016)
   - (2025)! RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training [[paper]](https://arxiv.org/abs/2510.06710)
+  - (2025)! Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.15799)
 
 ### Policy Distillation
 - Rldg: Robotic generalist policy distillation via reinforcement learning [[paper]](https://doi.org/10.48550/arXiv.2412.09858)
