@@ -1,4 +1,4 @@
-# Awesome Papers Merging Generative AI and Reinforcement Learning in Robotics
+<img width="1850" height="1173" alt="image" src="https://github.com/user-attachments/assets/ffdff99d-c524-4d04-8d2b-2452c3a6eab9" /># Awesome Papers Merging Generative AI and Reinforcement Learning in Robotics
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -92,8 +92,12 @@ This section explores how generative AI models address key challenges in robotic
  - Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics [[paper]](https://arxiv.org/abs/2309.06687)
  - Language to Rewards for Robotic Skill Synthesis [[paper]](https://arxiv.org/abs/2306.08647)
  - Guiding Pretraining in Reinforcement Learning with Large Language Models [[paper]](https://arxiv.org/abs/2302.06692)
- - !  [[paper]]()
- 
+ - (2025)! Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation With Large Language Models [[paper]](https://ieeexplore.ieee.org/abstract/document/11080043)
+ - (2025)! LLM-Guided Reinforcement Learning: Addressing Training Bottlenecks through Policy Modulation [[paper]](https://arxiv.org/abs/2505.20671)
+ - (2025)! LLM Coach: Reward Shaping for Reinforcement Learning-Based Navigation Agent [[paper]](https://ieeexplore.ieee.org/abstract/document/11051677)
+ - (2025)! Reward Evolution with Graph-of-Thoughts: A Bi-Level Language Model Framework for Reinforcement Learning [[paper]](https://arxiv.org/abs/2509.16136)
+ - (2025)! Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper]](https://arxiv.org/pdf/2504.12680)
+ - (2025)! Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.00907)
 
 ##### 2.VLMs for reward learning
 - Learning transferable visual models from natural language supervision [[paper]](https://doi.org/10.48550/arXiv.2103.00020)
@@ -109,6 +113,9 @@ This section explores how generative AI models address key challenges in robotic
 - Code as Reward: Empowering Reinforcement Learning with VLMs [[paper]](https://openreview.net/pdf?id=6P88DMUDvH)
 - Zero-Shot Reward Specification via Grounded Natural Language [[paper]](https://openreview.net/forum?id=zRb7IWkTZAU)
 - The dark side of rich rewards: Understanding and mitigating noise in vlm rewards [[paper]](https://doi.org/10.48550/arXiv.2409.15922)
+- (2025)! A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning [[paper]](https://arxiv.org/abs/2509.15937)
+- (2025)! Policy Learning from Large Vision-Language Model Feedback without Reward Modeling [[paper]](https://arxiv.org/abs/2507.23391)
+- (2025)! VARP: Reinforcement Learning from Vision-Language Model Feedback with Agent Regularized Preferences [[paper]](https://arxiv.org/abs/2503.13817)
 
 ##### 3.Reward learning with diffusion models
 - Diffusion Reward: Learning Rewards via Conditional Video Diffusion [[paper]](https://arxiv.org/abs/2312.14134)
@@ -116,16 +123,16 @@ This section explores how generative AI models address key challenges in robotic
 - Diffused Value Function: Value Function Estimation using Conditional Diffusion Models for Control [[paper]](https://arxiv.org/abs/2306.07290)
 - Reward-Directed Conditional Diffusion Models for Directed Generation and Representation Learning [[paper]](https://arxiv.org/abs/2307.07055)
 - Learning a Diffusion Model Policy from Rewards via Q-Score Matching [[paper]](https://arxiv.org/abs/2312.11752)
-- ! TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.19769)
-- ! GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning [[paper]](https://arxiv.org/abs/2508.11049)
-- ! GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_GenFlowRL_Shaping_Rewards_with_Generative_Object-Centric_Flow_in_Visual_Reinforcement_ICCV_2025_paper.html)
+- (2025)! TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.19769)
+- (2025)! GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning [[paper]](https://arxiv.org/abs/2508.11049)
 
 ##### 4.Learning rewards from video prediction
 - Learning Generalizable Robotic Reward Functions from 'In-The-Wild' Human Videos [[paper]](https://arxiv.org/abs/2103.16817)
 - Video prediction models as rewards for reinforcement learning [[paper]](https://arxiv.org/abs/2305.14343)
 - Learning reward functions for robotic manipulation by observing humans [[paper]](https://arxiv.org/abs/2211.09019)
 - Vip: Towards universal visual reward and representation via value-implicit pre-training [[paper]](https://arxiv.org/abs/2210.00030)
-- !  [[paper]]()
+- (2025)! VideoWorld: Exploring Knowledge Learning from Unlabeled Videos [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_VideoWorld_Exploring_Knowledge_Learning_from_Unlabeled_Videos_CVPR_2025_paper.html)
+- (2025)! LuciBot: Automated Robot Policy Learning from Generated Videos [[paper]](https://arxiv.org/abs/2503.09871)
 
 #### State Representation
 
@@ -135,7 +142,8 @@ This section explores how generative AI models address key challenges in robotic
 - Robotic offline rl from internet videos via value-function pre-training [[paper]](https://arxiv.org/abs/2309.13041)
 - Where are we in the search for an artificial visual cortex for embodied intelligence? [[paper]](https://arxiv.org/abs/2303.18240)
 - Foundation Reinforcement Learning (FRL) [[paper]](https://arxiv.org/abs/2310.02635)
-- !  [[paper]]()
+- ! Video Generators are Robot Policies [[paper]](https://arxiv.org/abs/2508.00795)
+- ! Pre-Trained Video Generative Models as World Simulators [[paper]](https://arxiv.org/abs/2502.07825)
 
 ##### 2.Foundation world models for model-based RL
 - Daydreamer: World models for physical robot learning [[paper]](https://arxiv.org/abs/2206.14176)
@@ -161,7 +169,14 @@ This section explores how generative AI models address key challenges in robotic
 - Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling [[paper]](https://arxiv.org/abs/2301.12050)
 - GenSim: Generating Robotic Simulation Tasks via Large Language Models [[paper]](https://arxiv.org/abs/2310.01361)
 - UniSim: Learning Interactive Real-World Simulators [[paper]](https://arxiv.org/abs/2310.06114)
-- ! RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation [[paper]](https://arxiv.org/abs/2501.06605)
+- (2025)! RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation [[paper]](https://arxiv.org/abs/2501.06605)
+- (2025)! Learning Primitive Embodied World Models: Towards Scalable Robotic Learning [[paper]](https://openreview.net/forum?id=W0AY49wWrb)
+- (2025)! GWM: Towards Scalable Gaussian World Models for Robotic Manipulation [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Lu_GWM_Towards_Scalable_Gaussian_World_Models_for_Robotic_Manipulation_ICCV_2025_paper.html)
+- (2025)! Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [[paper]](https://arxiv.org/abs/2501.10100)
+- (2025)! FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation [[paper]](https://arxiv.org/abs/2505.10075)
+- (2025)! Accelerating Model-Based Reinforcement Learning with State-Space World Models [[paper]](https://arxiv.org/abs/2502.20168)
+- (2025)! Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator [[paper]](https://arxiv.org/abs/2504.16680)
+- (2025)! Efficient Reinforcement Learning by Guiding Generalist World Models with Non-Curated Data [[paper]](https://arxiv.org/abs/2502.19544)
 
 ####   Planning & Exploration
 
@@ -170,14 +185,19 @@ This section explores how generative AI models address key challenges in robotic
 - Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration [[paper]](https://arxiv.org/abs/2002.09253)
 - Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance [[paper]](https://arxiv.org/abs/2310.10021)
 - ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models [[paper]](https://arxiv.org/pdf/2403.09583)
-- !  [[paper]]()
+- (2025)! LaGR-SEQ: Language-guided reinforcement learning with sample-efficient querying [[paper]](https://link.springer.com/article/10.1007/s00521-025-11156-y)
+- (2025)! Language-Conditioned Offline RL for Multi-Robot Navigation [[paper]](https://ieeexplore.ieee.org/abstract/document/11127288)
+- (2025)! LLM-Explorer: A Plug-in Reinforcement Learning Policy Exploration Enhancement Driven by Large Language Models [[paper]](https://arxiv.org/abs/2505.15293)
 
 ##### 2.VLMs for exploration
 - RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback [[paper]](https://arxiv.org/abs/2402.03681)
 - Vision-Language Models Provide Promptable Representations for Reinforcement Learning [[paper]](https://arxiv.org/abs/2402.02651)
 - Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation? [[paper]](https://arxiv.org/abs/2204.11134)
 - Towards A Unified Agent with Foundation Models [[paper]](https://arxiv.org/abs/2307.09668)
-- !  [[paper]]()
+- (2025)! Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.01616)
+- (2025)! Teaching RL Agents to Act Better: VLM as Action Advisor for Online Reinforcement Learning [[paper]](https://arxiv.org/abs/2509.21126)
+- (2025)! VLM Q-Learning: Aligning Vision-Language Models for Interactive Decision-Making [[paper]](https://arxiv.org/abs/2505.03181)
+- (2025)! ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning [[paper]](https://arxiv.org/abs/2510.12693)
 
 ##### 3.LLMs for planning
 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[paper]](https://arxiv.org/abs/2204.01691)
@@ -195,7 +215,9 @@ This section explores how generative AI models address key challenges in robotic
 - Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models [[paper]](https://arxiv.org/abs/2311.02379)
 - Socratic models: Composing zero-shot multimodal reasoning with language [[paper]](https://doi.org/10.48550/arXiv.2204.00598)
 - Minigpt-4: Enhancing visionlanguage understanding with advanced large language models [[paper]](https://doi.org/10.48550/arXiv.2304.10592)
-- !  [[paper]]()
+- (2025)! Collision- and Reachability-Aware Multi-Robot Control with Grounded LLM Planners [[paper]](https://arxiv.org/abs/2505.20573)
+- (2025)! Multi-Agent Fuzzy Reinforcement Learning With LLM for Cooperative Navigation of Endovascular Robotics [[paper]](https://ieeexplore.ieee.org/abstract/document/11078928)
+- (2025)! Evaluating a Hybrid LLM Q-Learning/DQN Framework for Adaptive Obstacle Avoidance in Embedded Robotics [[paper]](https://www.mdpi.com/2673-2688/6/6/115)
 
 ##### 4.Diffusion models for planning and exploration
 - Generative adversarial imitation learning [[paper]](https://doi.org/10.48550/arXiv.1606.03476)
@@ -232,22 +254,21 @@ This section explores how generative AI models address key challenges in robotic
 - Reasoning with Latent Diffusion in Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.06599)
 - Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning [[paper]](https://arxiv.org/abs/2306.04875)
 - MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL [[paper]](https://arxiv.org/abs/2305.19923)
-- ! COLSON: Controllable Learning-Based Social Navigation via Diffusion-Based Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.13934)
-- ! Offline Reinforcement Learning with Discrete Diffusion Skills [[paper]](https://arxiv.org/abs/2503.20176)
-- ! DASP: Hierarchical Offline Reinforcement Learning via Diffusion Autodecoder and Skill Primitive [[paper]](https://ieeexplore.ieee.org/abstract/document/10816163)
-- ! Garment Diffusion Models for Robot-Assisted Dressing [[paper]](https://ieeexplore.ieee.org/abstract/document/10803021)
-- ! Enhancing Exploration With Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation [[paper]](https://ieeexplore.ieee.org/abstract/document/10978025)
-- ! Offline Adaptation of Quadruped Locomotion Using Diffusion Models [[paper]](https://ieeexplore.ieee.org/abstract/document/11128726)
-- ! DiffusionRL: Efficient Training of Diffusion Policies for Robotic Grasping Using RL-Adapted Large-Scale Datasets [[paper]](https://arxiv.org/abs/2505.18876)
-- ! Motion Planning Diffusion: Learning and Adapting Robot Motion Planning With Diffusion Models [[paper]](https://ieeexplore.ieee.org/abstract/document/11097366)
-- ! GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.18763)
-- ! Chaos-Augmented Reinforcement Learning With Diffusion Models for Robust Legged Robot Locomotion [[paper]](https://ieeexplore.ieee.org/abstract/document/11218266)
-- ! Generalizable Offline Multiobjective Reinforcement Learning via Preference-Conditioned Diffuser [[paper]](https://ieeexplore.ieee.org/abstract/document/11201894)
-- ! World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation [[paper]](https://arxiv.org/abs/2509.19080)
-- ! DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion [[paper]](https://arxiv.org/abs/2509.14353)
-- ! Continual Diffuser (CoD): Mastering Continual Offline RL With Experience Rehearsal [[paper]](https://ieeexplore.ieee.org/abstract/document/11165204)
-- ! PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching [[paper]](https://arxiv.org/abs/2509.08435)
-- !  [[paper]]()
+- (2025)! COLSON: Controllable Learning-Based Social Navigation via Diffusion-Based Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.13934)
+- (2025)! Offline Reinforcement Learning with Discrete Diffusion Skills [[paper]](https://arxiv.org/abs/2503.20176)
+- (2025)! DASP: Hierarchical Offline Reinforcement Learning via Diffusion Autodecoder and Skill Primitive [[paper]](https://ieeexplore.ieee.org/abstract/document/10816163)
+- (2025)! Garment Diffusion Models for Robot-Assisted Dressing [[paper]](https://ieeexplore.ieee.org/abstract/document/10803021)
+- (2025)! Enhancing Exploration With Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation [[paper]](https://ieeexplore.ieee.org/abstract/document/10978025)
+- (2025)! Offline Adaptation of Quadruped Locomotion Using Diffusion Models [[paper]](https://ieeexplore.ieee.org/abstract/document/11128726)
+- (2025)! DiffusionRL: Efficient Training of Diffusion Policies for Robotic Grasping Using RL-Adapted Large-Scale Datasets [[paper]](https://arxiv.org/abs/2505.18876)
+- (2025)! Motion Planning Diffusion: Learning and Adapting Robot Motion Planning With Diffusion Models [[paper]](https://ieeexplore.ieee.org/abstract/document/11097366)
+- (2025)! GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.18763)
+- (2025)! Chaos-Augmented Reinforcement Learning With Diffusion Models for Robust Legged Robot Locomotion [[paper]](https://ieeexplore.ieee.org/abstract/document/11218266)
+- (2025)! Generalizable Offline Multiobjective Reinforcement Learning via Preference-Conditioned Diffuser [[paper]](https://ieeexplore.ieee.org/abstract/document/11201894)
+- (2025)! World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation [[paper]](https://arxiv.org/abs/2509.19080)
+- (2025)! DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion [[paper]](https://arxiv.org/abs/2509.14353)
+- (2025)! Continual Diffuser (CoD): Mastering Continual Offline RL With Experience Rehearsal [[paper]](https://ieeexplore.ieee.org/abstract/document/11165204)
+- (2025)! PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching [[paper]](https://arxiv.org/abs/2509.08435)
 
 ## RL for Generative Policies 
 The second primary dimension of our taxonomy examines RL methods used to train generative models, offering a complementary perspective to Generative AI Tools for RL. Here, we analyze works that employ RL-based approaches to pre-train, fine-tune, or distill generative policies—where reinforcement learning is used directly to optimize models for action generation. We organize our discussion along three secondary dimensions, which we refer to as: (i) RL-Based Pre-Training, (ii) RL-Based Fine-Tuning, and (iii) Policy Distillation
@@ -269,8 +290,10 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - Latte: Language trajectory transformer [[paper]](https://arxiv.org/abs/2208.02918)
   - Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions [[paper]](https://arxiv.org/abs/2309.10150)
   - Anymorph: Learning transferable polices by inferring agent morphology [[paper]](https://arxiv.org/abs/2206.12279)
-  - ! AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning
- [[paper]](https://arxiv.org/abs/2509.08755)
+  - (2025)! AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning [[paper]](https://arxiv.org/abs/2509.08755)
+  - (2025)! ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models [[paper]](https://arxiv.org/abs/2505.16517)
+  - (2025)! Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success [[paper]](https://arxiv.org/abs/2508.04280)
+  - (2025)! MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models [[paper]](https://arxiv.org/abs/2503.08007)
 
 #### 2.Diffusion Policy
   - Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning [[paper]](https://arxiv.org/abs/2309.16984)
@@ -290,30 +313,42 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - Policy Representation via Diffusion Probability Model for Reinforcement Learning [[paper]](https://arxiv.org/pdf/2305.13122)
   - Diffusion policies as an expressive policy class for offline reinforcement learning [[paper]](https://arxiv.org/pdf/2208.06193)
   - Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/10423845)
-  - ! Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning [[paper]](https://arxiv.org/abs/2507.12977)
+  - (2025)! Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning [[paper]](https://arxiv.org/abs/2507.12977)
+  - (2025)! Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.15799)
+  - (2025)! D3P: Dynamic Denoising Diffusion Policy via Reinforcement Learning [[paper]](https://arxiv.org/abs/2508.06804)
 
 ### Generative Policy RL Fine-Tuning
   - Policy Agnostic RL Fine-Tuning Multiple Policy Classes with Actor-Critic RL [[paper]](https://policyagnosticrl.github.io/#:~:text=We%20introduce%20Policy-2.Agnostic%20RL,and%20transformer-based%20autoregressive%20policies.)
   - Diffusion Policy Policy Optimization [[paper]](https://arxiv.org/abs/2409.00588)
   - FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning [[paper]](https://robot-flare.github.io/)
   - Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning [[paper]](https://arxiv.org/abs/2405.10292)
-  - ! FDPP: Fine-tune Diffusion Policy with Human Preference [[paper]](https://arxiv.org/html/2501.08259v1)
-  - ! Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper]](https://arxiv.org/pdf/2501.16664)
-  - ! From Mystery to Mastery: Failure Diagnosis for Improving Manipulation Policies [[paper]](https://somsagar07.github.io/RoboMD/)
-  - ! VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.18719)
-  - ! SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning [[paper]](https://arxiv.org/abs/2509.09674)
-  - ! Emergent World Representations in OpenVLA [[paper]](https://arxiv.org/abs/2509.24559)
-  - ! Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control [[paper]](https://arxiv.org/abs/2507.05674)
+  - (2025)! FDPP: Fine-tune Diffusion Policy with Human Preference [[paper]](https://arxiv.org/html/2501.08259v1)
+  - (2025)! Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper]](https://arxiv.org/pdf/2501.16664)
+  - (2025)! From Mystery to Mastery: Failure Diagnosis for Improving Manipulation Policies [[paper]](https://somsagar07.github.io/RoboMD/)
+  - (2025)! VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.18719)
+  - (2025)! SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning [[paper]](https://arxiv.org/abs/2509.09674)
+  - (2025)! Emergent World Representations in OpenVLA [[paper]](https://arxiv.org/abs/2509.24559)
+  - (2025)! Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control [[paper]](https://arxiv.org/abs/2507.05674)
+  - (2025)! RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.03238)
+  - (2025)! Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation [[paper]](https://arxiv.org/abs/2509.25852)
+  - (2025)! IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model [[paper]](https://arxiv.org/abs/2508.06571)
+  - (2025)! ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper]](https://arxiv.org/abs/2502.05450)
+  - (2025)! VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators [[paper]](https://arxiv.org/abs/2510.00406)
+  - (2025)! ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [[paper]](https://openreview.net/forum?id=Mzz4BhdIFb)
+  - (2025)! What Can RL Bring to VLA Generalization? An Empirical Study [[paper]](https://arxiv.org/abs/2505.19789)
+  - (2025)! Interactive Post-Training for Vision-Language-Action Models [[paper]](https://arxiv.org/abs/2505.17016)
+  - (2025)! RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training [[paper]](https://arxiv.org/abs/2510.06710)
 
 ### Policy Distillation
 - Rldg: Robotic generalist policy distillation via reinforcement learning [[paper]](https://doi.org/10.48550/arXiv.2412.09858)
 - Evaluating real-world robot manipulation policies in simulation [[paper]](https://doi.org/10.48550/arXiv.2405.05941)
-- ! Refined policy distillation: From vla generalists to rl experts [[paper]](https://doi.org/10.48550/arXiv.2503.05833)
-- !  [[paper]]()
+- (2025)! Refined policy distillation: From vla generalists to rl experts [[paper]](https://doi.org/10.48550/arXiv.2503.05833)
+- (2025)! VLMs-Guided Representation Distillation for Efficient Vision-Based Reinforcement Learning [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_VLMs-Guided_Representation_Distillation_for_Efficient_Vision-Based_Reinforcement_Learning_CVPR_2025_paper.html)
+- (2025)! RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models [[paper]](https://arxiv.org/abs/2506.17639)
 
 ### Policy Safety (new!)
-- ! SafeVLA: Towards Safety Alignment of VisionLanguage-Action Model via Constrained Learning [[paper]](https://arxiv.org/pdf/2503.03480)
-- !  [[paper]]()
+- (2025)! SafeVLA: Towards Safety Alignment of VisionLanguage-Action Model via Constrained Learning [[paper]](https://arxiv.org/pdf/2503.03480)
+- (2025)! Collision- and Reachability-Aware Multi-Robot Control with Grounded LLM Planners [[paper]](https://arxiv.org/abs/2505.20573)
   
 ## Citation
 
