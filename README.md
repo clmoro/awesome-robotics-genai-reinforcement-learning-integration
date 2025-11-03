@@ -8,7 +8,7 @@ The paper explores the synergy between modern generative AI tools (transformer- 
 
 We also provide five Excel files (one for each category) that offer detailed summaries of the analyses we performed using the paper's taxonomy. These summaries cover several features of the analyzed papers, such as `name of the framework`, `model used`, `code availability`, `dataset`, `type of application`, `simulation vs. real-world`, `crosscategories`, `experiment evaluation`, `year of publication`, and `short description`.
 <div align="center">
-<img src="./Images/Fig_3.PNG" alt="Paper Taxonomy." width="500"/>
+<img src="./Images/Fig_3.png" alt="Paper Taxonomy." width="500"/>
 </div>
 
 ## Research Trends
@@ -16,7 +16,7 @@ We also provide five Excel files (one for each category) that offer detailed sum
 To visualize the evolution of research in this domain, the following figure illustrates the trends in the integration of generative AI and reinforcement learning for robotics.
 
 <div align="center">
-  <img src="./Images/Timelinepapers.PNG" alt="Timeline of Research Papers by Category." width="700"/>
+  <img src="./Images/Timelinepapers.png" alt="Timeline of Research Papers by Category." width="700"/>
   <br>
   <em>Figure 1: Trends in generative AI and reinforcement learning integration for robotic reasoning. The figure illustrates the number of papers published each year integrating both generative AI and RL in robotics, categorized by the type of model employed.</em>
 </div>
@@ -35,14 +35,14 @@ The relationship between Reinforcement Learning (RL) and state-of-the-art genera
 <br>
 
 <div align="center">
-<img src="./Images/Fig_2.PNG" alt="Paper Taxonomy." width="500"/>
+<img src="./Images/Fig_2.png" alt="Paper Taxonomy." width="500"/>
 </div>
 <em>In **Figure (top)**, we illustrate scenarios where various generative AI tools enhance RL capabilities. LLMs aid in symbolic reasoning for rewards or policy generation, VLMs augment these processes through scene understanding, while diffusion models contribute by working with low-level trajectories. Lastly, robot state estimation and prediction are informed by VPMs or world models. The second dimension of our taxonomy, shown in **Figure (bottom)**, examines how RL methods are used to train generative models. This offers a complementary perspective to using generative AI as tools for RL. Here, we analyze works where RL is directly used to optimize models for generation, including Policy Pre-Training, RL Fine-Tuning, and Policy Distillation.</em>
 
 ## Taxonomy
 
 <div align="center">
- <img src="./Images/Fig_0.PNG" alt="Paper structure." width="800"/>
+ <img src="./Images/Fig_0.png" alt="Paper structure." width="800"/>
 </div>
 
 
@@ -75,6 +75,10 @@ This section focuses on the classification of the five types of generative AI mo
 
 ### Task
 This section explores how generative AI models address key challenges in robotic RL, such as **sparse rewards, sample inefficiency, generalization, and goal specification**, by enhancing stages like **Reward Signal generation, State Representation, and Policy Learning.**
+
+<div align="center">
+ <img src="./Images/Fig_7.png" alt="Paper structure." width="800"/>
+</div>
 
 #### Reward Signal
 
