@@ -7,11 +7,6 @@ This repository contains a curated list of papers and resources related to the s
 The paper explores the synergy between modern generative AI tools (transformer- and diffusion-based models) and Reinforcement Learning (RL) for advancing robotic intelligence and physical grounding.
 
 We also provide five Excel files (one for each category) that offer detailed summaries of the analyses we performed using the paper's taxonomy. These summaries cover several features of the analyzed papers, such as `name of the framework`, `model used`, `code availability`, `dataset`, `type of application`, `simulation vs. real-world`, `crosscategories`, `experiment evaluation`, `year of publication`, and `short description`.
-<div align="center">
-<img src="./Images/Fig_3.png" alt="Generative AI tools for RL." width="500"/>
-  <br>
-  <em>Figure 1: Generative AI tools for RL.</em>
-</div>
 
 ## Abstract
 
@@ -26,7 +21,7 @@ To visualize the evolution of research in this domain, the following figure illu
 <div align="center">
   <img src="./Images/Timelinepapers.PNG" alt="Trends in generative AI and RL integration for robotics." width="700"/>
   <br>
-  <em>Figure 2: Trends in generative AI and RL integration for robotics.</em>
+  <em>Figure 1: Trends in generative AI and RL integration for robotics.</em>
 </div>
 
 ## The Duality of Generative AI and Reinforcement Learning
@@ -38,7 +33,7 @@ The relationship between Reinforcement Learning (RL) and state-of-the-art genera
 <div align="center">
 <img src="./Images/Fig_2.png" alt="Duality between RL and generative AI models in robotics." width="700"/>
   <br>
-  <em>Figure 3: Duality between RL and generative AI models in robotics.</em>
+  <em>Figure 2: Duality between RL and generative AI models in robotics.</em>
 </div>
 
 ## Taxonomy
@@ -46,12 +41,18 @@ The relationship between Reinforcement Learning (RL) and state-of-the-art genera
 <div align="center">
  <img src="./Images/Fig_0.png" alt="Paper Taxonomy." width="800"/>
   <br>
-  <em>Figure 4: Taxonomy.</em>
+  <em>Figure 3: Taxonomy.</em>
 </div>
 
 
 ## Generative Tools for RL
 **Generative Tools for RL** explores how various architectures from modern generative AI can be integrated into the RL training loop. We analyze prior work on leveraging generative and foundation models to enhance robotics, focusing on architectures based on Transformer or Diffusion backbones. "As tools" highlights that pre-trained foundation models (like LLMs) are not being retrained end-to-end with the RL agent, but are instead leveraged in a modular way — as plug-and-play components that provide capabilities (such as understanding or generating specific modalities) that the RL agent can use during training or decision making.
+
+<div align="center">
+<img src="./Images/Fig_3.png" alt="Generative AI tools for RL." width="500"/>
+  <br>
+  <em>Figure 4: Generative AI tools for RL.</em>
+</div>
 
 For Generative Tools for RL, we categorize papers based on their underlying model architecture, which we refer to as the **Base Model**; the input and output modalities, referred to as **Modality**; and finally, the aim of the RL process, which we call the **Task**.
 
