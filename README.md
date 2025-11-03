@@ -348,6 +348,7 @@ The second primary dimension of our taxonomy examines RL methods used to train g
   - (2025)! Interactive Post-Training for Vision-Language-Action Models [[paper]](https://arxiv.org/abs/2505.17016)
   - (2025)! RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training [[paper]](https://arxiv.org/abs/2510.06710)
   - (2025)! Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.15799)
+  - (2025)! Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps [[paper]](https://arxiv.org/abs/2505.10482)
 
 ### Policy Distillation
 - Rldg: Robotic generalist policy distillation via reinforcement learning [[paper]](https://doi.org/10.48550/arXiv.2412.09858)
