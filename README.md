@@ -55,13 +55,13 @@ For Generative Tools for RL, we categorize papers based on their underlying mode
 ### Base Model
 
 The Base Model section classifies the papers according to their backbone architecture, briefly describes their features, and summarizes key aspects in tables. These
-aspects are important when selecting a tool for the RL tasks. See the Excel tables for a detailed classification ...
+aspects are important when selecting a tool for the RL tasks. See the Excel tables for a detailed classification:
 
 1. [Large Language Models](Large_Language_Models_for_RL_Table.xlsx)
-#### 2. Vision Language Models
-#### 3. Diffusion models
-#### 4. World Models
-#### 5. Video Prediction Models
+2. [Vision Language Models](Vision_Language_Models_for_RL_Table.xlsx)
+3. [Diffusion models](Diffusion_Models_for_RL_Table.xlsx)
+4. [World Models](World_Models_and_Video_Prediction_Models_for_RL_Table.xlsx)
+5. [Video Prediction Models](World_Models_and_Video_Prediction_Models_for_RL_Table.xlsx)
 
 ### Modality
 
