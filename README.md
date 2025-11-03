@@ -13,6 +13,12 @@ We also provide five Excel files (one for each category) that offer detailed sum
   <em>Figure 1: Generative AI tools for RL.</em>
 </div>
 
+## Abstract
+
+Our review paper examines the integration of generative AI models, specifically transformer- and diffusion-based models, with reinforcement learning (RL) to advance robotic physical grounding, ensuring robotic actions are based on environment interactions rather than purely computational inference. Our primary focus is on the interplay between generative AI and RL for robotics downstream tasks. Specifically, we investigate: (1) The role of generative AI tools (large language models, vision-language models, diffusion models, and world models) as priors in RL-based robotics. (2) The integration of different input-output modalities from pre-trained modules into the RL training loop. (3) How RL can train generative models for robotic policies, similar to its applications in language models. We then propose a new taxonomy based on our findings. Lastly, we identify key trends and open challenges, accounting for model scalability, generalizability, and grounding. Moreover, we devise architectural trade-offs in RL fine-tuning strategies for generative policies. We also reflect on issues inherent to generative black-box policies, such as safety concerns and failure modes, which could be addressed through learning-based approaches like RL. Actually, our findings suggest that learning-based control techniques will play a crucial role in grounding generative policies within real-world constraints in general.
+
+*(Keywords: Robotics, Generative AI, Foundation model, Reinforcement learning, Physical grounding)*
+
 ## Research Trends
 
 To visualize the evolution of research in this domain, the following figure illustrates the trends in the integration of generative AI and reinforcement learning for robotics.
@@ -23,14 +29,7 @@ To visualize the evolution of research in this domain, the following figure illu
   <em>Figure 2: Trends in generative AI and RL integration for robotics.</em>
 </div>
 
-
-## Abstract
-
-Our review paper examines the integration of generative AI models, specifically transformer- and diffusion-based models, with reinforcement learning (RL) to advance robotic physical grounding, ensuring robotic actions are based on environment interactions rather than purely computational inference. Our primary focus is on the interplay between generative AI and RL for robotics downstream tasks. Specifically, we investigate: (1) The role of generative AI tools (large language models, vision-language models, diffusion models, and world models) as priors in RL-based robotics. (2) The integration of different input-output modalities from pre-trained modules into the RL training loop. (3) How RL can train generative models for robotic policies, similar to its applications in language models. We then propose a new taxonomy based on our findings. Lastly, we identify key trends and open challenges, accounting for model scalability, generalizability, and grounding. Moreover, we devise architectural trade-offs in RL fine-tuning strategies for generative policies. We also reflect on issues inherent to generative black-box policies, such as safety concerns and failure modes, which could be addressed through learning-based approaches like RL. Actually, our findings suggest that learning-based control techniques will play a crucial role in grounding generative policies within real-world constraints in general.
-
-*(Keywords: Robotics, Generative AI, Foundation model, Reinforcement learning, Physical grounding)*
-
-### The Duality of Generative AI and Reinforcement Learning
+## The Duality of Generative AI and Reinforcement Learning
 
 The relationship between Reinforcement Learning (RL) and state-of-the-art generative models is a central theme of our review.This interplay is a duality with mutual benefits: generative models enhance RL capabilities, and RL helps ground generative policies in real-world applications.  This symbiotic relationship is depicted in the following figures.
 
