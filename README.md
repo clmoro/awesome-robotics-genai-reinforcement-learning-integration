@@ -1,4 +1,4 @@
-<img width="1850" height="1173" alt="image" src="https://github.com/user-attachments/assets/ffdff99d-c524-4d04-8d2b-2452c3a6eab9" /># Awesome Papers Merging Generative AI and Reinforcement Learning in Robotics
+# Awesome Papers Merging Generative AI and Reinforcement Learning in Robotics
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
