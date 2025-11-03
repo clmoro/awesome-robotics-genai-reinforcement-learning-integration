@@ -152,8 +152,8 @@ This section explores how generative AI models address key challenges in robotic
 - Robotic offline rl from internet videos via value-function pre-training [[paper]](https://arxiv.org/abs/2309.13041)
 - Where are we in the search for an artificial visual cortex for embodied intelligence? [[paper]](https://arxiv.org/abs/2303.18240)
 - Foundation Reinforcement Learning (FRL) [[paper]](https://arxiv.org/abs/2310.02635)
-- ! Video Generators are Robot Policies [[paper]](https://arxiv.org/abs/2508.00795)
-- ! Pre-Trained Video Generative Models as World Simulators [[paper]](https://arxiv.org/abs/2502.07825)
+- (2025)! Video Generators are Robot Policies [[paper]](https://arxiv.org/abs/2508.00795)
+- (2025)! Pre-Trained Video Generative Models as World Simulators [[paper]](https://arxiv.org/abs/2502.07825)
 
 ##### 2.Foundation world models for model-based RL
 - Daydreamer: World models for physical robot learning [[paper]](https://arxiv.org/abs/2206.14176)
