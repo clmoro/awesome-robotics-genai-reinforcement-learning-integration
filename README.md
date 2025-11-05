@@ -281,7 +281,7 @@ This section explores how generative AI models address key challenges in robotic
 - (2025)! PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching [[paper]](https://arxiv.org/abs/2509.08435)
 
 ## RL for Generative Policies 
-The second primary dimension of our taxonomy examines RL methods used to train generative models, offering a complementary perspective to Generative AI Tools for RL. Here, we analyze works that employ RL-based approaches to pre-train, fine-tune, or distill generative policies—where reinforcement learning is used directly to optimize models for action generation. We organize our discussion along three secondary dimensions, which we refer to as: (i) RL-Based Pre-Training, (ii) RL-Based Fine-Tuning, and (iii) Policy Distillation
+The second primary dimension of our taxonomy examines RL methods used to train generative models, offering a complementary perspective to Generative AI Tools for RL. Here, we analyze works that employ RL-based approaches to pre-train, fine-tune, or distill generative policies—where reinforcement learning is used directly to optimize models for action generation. We organize our discussion along three secondary dimensions, which we refer to as: (i) RL-Based Pre-Training, (ii) RL-Based Fine-Tuning, and (iii) Policy Distillation.
 
 ### RL Pre-Training 
 
