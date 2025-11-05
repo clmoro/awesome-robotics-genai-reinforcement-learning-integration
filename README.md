@@ -19,7 +19,7 @@ Our review paper examines the integration of generative AI models, specifically 
 To visualize the evolution of research in this domain, the following figure illustrates the trends in the integration of generative AI and reinforcement learning for robotics.
 
 <div align="center">
-  <img src="./Images/Timelinepapers.PNG" alt="Trends in generative AI and RL integration for robotics." width="700"/>
+  <img src="./Images/Fig_1.jpg" alt="Trends in generative AI and RL integration for robotics." width="700"/>
   <br>
   <em>Figure 1: Trends in generative AI and RL integration for robotics.</em>
 </div>
@@ -31,7 +31,7 @@ The relationship between Reinforcement Learning and state-of-the-art generative 
 <br>
 
 <div align="center">
-<img src="./Images/Fig_2.png" alt="Duality between RL and generative AI models in robotics." width="600"/>
+<img src="./Images/Fig_2.jpg" alt="Duality between RL and generative AI models in robotics." width="600"/>
   <br>
   <em>Figure 2: Duality between RL and generative AI models in robotics.</em>
 </div>
@@ -39,7 +39,7 @@ The relationship between Reinforcement Learning and state-of-the-art generative 
 ## Taxonomy
 
 <div align="center">
- <img src="./Images/Fig_0.png" alt="Paper Taxonomy." width="800"/>
+ <img src="./Images/Fig_0.jpg" alt="Paper Taxonomy." width="800"/>
   <br>
   <em>Figure 3: Taxonomy.</em>
 </div>
@@ -49,7 +49,7 @@ The relationship between Reinforcement Learning and state-of-the-art generative 
 **Generative Tools for RL** explores how various architectures from modern generative AI can be integrated into the RL training loop. We analyze prior work on leveraging generative and foundation models to enhance robotics, focusing on architectures based on Transformer or Diffusion backbones. "As tools" highlights that pre-trained foundation models (like LLMs) are not being retrained end-to-end with the RL agent, but are instead leveraged in a modular way — as plug-and-play components that provide capabilities (such as understanding or generating specific modalities) that the RL agent can use during training or decision making.
 
 <div align="center">
-<img src="./Images/Fig_3.png" alt="Generative AI tools for RL." width="500"/>
+<img src="./Images/Fig_3.jpg" alt="Generative AI tools for RL." width="500"/>
   <br>
   <em>Figure 4: Generative AI tools for RL.</em>
 </div>
@@ -82,7 +82,7 @@ This section focuses on the classification of the five types of generative AI mo
 This section explores how generative AI models address key challenges in robotic RL, such as **sparse rewards, sample inefficiency, generalization, and goal specification**, by enhancing stages like **Reward Signal generation, State Representation, and Policy Learning.**
 
 <div align="center">
- <img src="./Images/Fig_7.png" alt="Generative models as information fusion operators across RL tasks." width="800"/>
+ <img src="./Images/Fig_7.jpg" alt="Generative models as information fusion operators across RL tasks." width="800"/>
   <br>
   <em>Figure 5: Generative models as information fusion operators across RL tasks.</em>
 </div>
