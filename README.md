@@ -366,10 +366,13 @@ The second primary dimension of our taxonomy examines RL methods used to train g
 If you find our project useful, please cite our paper:
 
 ```
-@article{moroncelli2024integrating,
-  title={Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives},
-  author={Moroncelli, Angelo and Soni, Vishal and Shahid, Asad Ali and Maccarini, Marco and Forgione, Marco and Piga, Dario and Spahiu, Blerina and Roveda, Loris},
-  journal={arXiv preprint arXiv:2410.16411},
-  year={2024}
+@article{Moroncelli2024TheDO,
+  title={The duality of generative AI and reinforcement learning in robotics: A review},
+  author={Angelo Moroncelli and Vishal Soni and Marco Forgione and Dario Piga and Blerina Spahiu and Loris Roveda},
+  journal={Inf. Fusion},
+  year={2024},
+  volume={129},
+  pages={104003},
+  url={https://api.semanticscholar.org/CorpusID:273507428}
 }
 ```
