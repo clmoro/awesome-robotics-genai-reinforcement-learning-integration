@@ -187,6 +187,7 @@ This section explores how generative AI models address key challenges in robotic
 - (2025)! Accelerating Model-Based Reinforcement Learning with State-Space World Models [[paper]](https://arxiv.org/abs/2502.20168)
 - (2025)! Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator [[paper]](https://arxiv.org/abs/2504.16680)
 - (2025)! Efficient Reinforcement Learning by Guiding Generalist World Models with Non-Curated Data [[paper]](https://arxiv.org/abs/2502.19544)
+- (2025)! RLVR-World: Training World Models with Reinforcement Learning [[paper]](https://thuml.github.io/RLVR-World/)
 
 ####   Planning & Exploration
 
