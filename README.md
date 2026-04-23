@@ -357,6 +357,7 @@ The second primary dimension of our taxonomy examines RL methods used to train g
 - (2025)! Refined policy distillation: From vla generalists to rl experts [[paper]](https://doi.org/10.48550/arXiv.2503.05833)
 - (2025)! VLMs-Guided Representation Distillation for Efficient Vision-Based Reinforcement Learning [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_VLMs-Guided_Representation_Distillation_for_Efficient_Vision-Based_Reinforcement_Learning_CVPR_2025_paper.html)
 - (2025)! RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models [[paper]](https://arxiv.org/abs/2506.17639)
+- (2026)! Jump-Start Reinforcement Learning with Vision-Language-Action Regularization [[paper]](https://arxiv.org/abs/2604.13733)
 
 ### Policy Safety (new!)
 - (2025)! SafeVLA: Towards Safety Alignment of VisionLanguage-Action Model via Constrained Learning [[paper]](https://arxiv.org/pdf/2503.03480)
